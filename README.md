@@ -9,8 +9,9 @@
   <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&width=435&lines=Hello+World!;Full-Stack+em+desenvolvimento!" alt="Typing SVG" /></a>
 
-  ⬜ Me chamo Lucas Freitas, tenho 19 anos e sou de Brasília-DF! Sou estudante de Ciências da Computação e estou no 4 semestre do curso.
-
+  ⬜ Me chamo Lucas Freitas, tenho 19 anos e sou de Brasília-DF! Sou estudante de Ciências da Computação e estou no 4 semestre do curso.<br>
+  ⬜ Atualmente estou estagiando! Procuro sempre aprender coisas novas, inclusive da área onde eu estou estagiando!
+  
 <div align="center">
   <a href="https://www.instagram.com/__.fr3it4s.__/" target="_blank">
     <img 
