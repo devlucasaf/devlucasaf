@@ -123,7 +123,7 @@
 <br>
 
 <div>
-  <a href="https://github.com/devlucasaf">
+  <a href="">
   <img
     height="180"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasaf&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9"
