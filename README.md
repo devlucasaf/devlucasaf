@@ -95,7 +95,7 @@
 
 ---
   
-  <div align="center"> 
+<div align="center"> 
     <h1>🛠️ Ferramentas</h1>
     <img
         align="center"
@@ -107,7 +107,7 @@
     />
     <img
         align="center"
-        alt="vscode"
+        alt="VsCode"
         tittle="VsCode"
         height="60" 
         style="padding-right: 10px;" 
@@ -130,7 +130,7 @@
     />
     <img
         align="center"
-        alt="pycharm"
+        alt="PyCharm"
         tittle="PyCharm"
         height="60"
         style="padding-right: 10px;"
@@ -157,7 +157,6 @@
         alt="Typing SVG" 
     />
     </a>
-
 </div>
 
 <img 
