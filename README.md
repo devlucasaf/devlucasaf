@@ -48,7 +48,15 @@
       style="padding-right: 10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
   />
-  <img
+  <img 
+    align="center"
+      alt="JavaScript"
+      tittle="JavaScript"
+      height="60" 
+      style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img
     align="center" 
       alt="Django" 
       title="Django"
