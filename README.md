@@ -10,7 +10,7 @@
 <p align="center">
     <a href="https://git.io/typing-svg">
         <img 
-            src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&width=435&lines=Hello+World!;Full-Stack+em+desenvolvimento!" 
+            src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&width=435&lines=Hello+World!;Back-End+em+desenvolvimento!" 
             alt="Typing SVG" 
         />
     </a>
@@ -36,28 +36,28 @@
 <div align="center">
     <a href="https://www.instagram.com/__.fr3it4s.__/" target="_blank">
         <img 
-            src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" 
+            src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=280137&logoColor=white&labelColor=&style=for-the-badge" 
             style="height:40px" 
             alt="instagram logo"
         />
     </a>
     <a href="https://open.spotify.com/user/6atv4j3yoivc7yidi4tf3e00h?si=a7882472f98742e8" target="_blank">
         <img 
-            src="https://img.shields.io/static/v1?message=spotify&logo=spotify&label=&color=1db954&logoColor=black&labelColor=&style=for-the-badge"
+            src="https://img.shields.io/static/v1?message=spotify&logo=spotify&label=&color=280137&logoColor=white&labelColor=&style=for-the-badge"
             style="height:40px" 
             alt="spotify logo" 
         />
     </a>
     <a href="https://www.linkedin.com/in/lucasfr3itas/" target="_blank">
         <img
-            src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" 
+            src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=280137&logoColor=white&labelColor=&style=for-the-badge" 
             style="height:40px" 
             alt="linkedin logo"
         />
     </a>
     <a href="mailto:freitas.lucasaf@gmail.com" target="_blank">
         <img
-            src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=C5221F&logoColor=white&labelColor=&style=for-the-badge" 
+            src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=280137&logoColor=white&labelColor=&style=for-the-badge" 
             style="height:40px" 
             alt="gmail logo"
         />
@@ -67,7 +67,7 @@
 ---
 
 <div align="center"> 
-  <h1>🚀Linguagens </h1>
+  <h1>📊Linguagens </h1>
     <img 
         align="center" 
         alt="Python" 
@@ -169,15 +169,9 @@
 <div align="center">
     <p>
         <img
-            alt="GitHub Stats"
             height="200"
-            style="padding-right: 10px; width: 390px;"
-            src="https://github-readme-stats.vercel.app/api?username=devlucasaf&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&locale=en"
-        />
-        <img
-            height="200"
-            style="padding-left: 10px; width: 390px;"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasaf&theme=vision-friendly-dark&layout=compact&custom_title=Tecnologias&langs_count=9"
+            style="padding-left: 10px; width: 490px;"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasaf&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=9"
         />
     </p>
 </div>
