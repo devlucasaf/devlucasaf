@@ -36,28 +36,28 @@
 <div align="center">
     <a href="https://www.instagram.com/__.fr3it4s.__/" target="_blank">
         <img 
-            src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=280137&logoColor=white&labelColor=&style=for-the-badge" 
+            src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=A020F0&logoColor=white&labelColor=&style=for-the-badge" 
             style="height:40px" 
             alt="instagram logo"
         />
     </a>
     <a href="https://open.spotify.com/user/6atv4j3yoivc7yidi4tf3e00h?si=a7882472f98742e8" target="_blank">
         <img 
-            src="https://img.shields.io/static/v1?message=spotify&logo=spotify&label=&color=280137&logoColor=white&labelColor=&style=for-the-badge"
+            src="https://img.shields.io/static/v1?message=spotify&logo=spotify&label=&color=A020F0&logoColor=white&labelColor=&style=for-the-badge"
             style="height:40px" 
             alt="spotify logo" 
         />
     </a>
     <a href="https://www.linkedin.com/in/lucasfr3itas/" target="_blank">
         <img
-            src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=280137&logoColor=white&labelColor=&style=for-the-badge" 
+            src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=A020F0&logoColor=white&labelColor=&style=for-the-badge" 
             style="height:40px" 
             alt="linkedin logo"
         />
     </a>
     <a href="mailto:freitas.lucasaf@gmail.com" target="_blank">
         <img
-            src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=280137&logoColor=white&labelColor=&style=for-the-badge" 
+            src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=A020F0&logoColor=white&labelColor=&style=for-the-badge" 
             style="height:40px" 
             alt="gmail logo"
         />
@@ -195,7 +195,7 @@
 <p align="right">
     <a href="#top">
     <img 
-        src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=7E3ACE&style=flat&logo" 
+        src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=7E3ACE&style=for-the-badge" 
         alt="voltar ao topo" 
     />
     </a>
