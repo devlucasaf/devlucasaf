@@ -172,12 +172,12 @@
             alt="GitHub Stats"
             height="200"
             style="padding-right: 10px; width: 390px;"
-            src="https://github-readme-stats.vercel.app/api?username=devlucasaf&show_icons=true&theme=dracula&include_all_commits=true&locale=en"
+            src="https://github-readme-stats.vercel.app/api?username=devlucasaf&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&locale=en"
         />
         <img
             height="200"
             style="padding-left: 10px; width: 390px;"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasaf&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasaf&theme=vision-friendly-dark&layout=compact&custom_title=Tecnologias&langs_count=9"
         />
     </p>
 </div>
