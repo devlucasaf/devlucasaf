@@ -22,13 +22,13 @@
     <h1 align="center">💡 Quem Sou Eu?</h1>
     <table>
         <tr>
-        <td>
-        <br>
-            ◽️ Me chamo Lucas Freitas, tenho 19 anos e sou de Brasília-DF! Sou estudante de Ciências da Computação e estou cursando o 4 semestre. <br><br>
-            ◽️ Atualmente estou estagiando! Procuro sempre aprender coisas novas, inclusive da área onde eu estou estagiando! <br><br>
-            ◽️ Entrei pra esse mundo, pois era uma área que sempre me interessei e sempre gosto de aprender coisas novas! 
-          <br><br>
-        </td>
+            <td>
+                <br>
+                    ◽️ Me chamo Lucas Freitas, tenho 19 anos e sou de Brasília-DF! Sou estudante de Ciências da Computação e estou cursando o 4 semestre. <br><br>
+                    ◽️ Atualmente estou estagiando! Procuro sempre aprender coisas novas, inclusive da área onde eu estou estagiando! <br><br>
+                    ◽️ Entrei pra esse mundo, pois era uma área que sempre me interessei e sempre gosto de aprender coisas novas! 
+                <br><br>
+            </td>
         </tr>
     </table>
 </div>
@@ -137,6 +137,14 @@
         height="60" 
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+    />
+    <img
+        align="center"
+        alt="Microsoft Edge"
+        tittle="Microsoft Edge"
+        height="60"
+        style="padding-right: 10px;"
+        src="https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Edge_logo_%282019%29.svg"
     />
     <img 
         align="center"
