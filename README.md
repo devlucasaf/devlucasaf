@@ -23,41 +23,51 @@
     <table>
         <tr>
             <td>
+                📚 Estudante de Ciência da Computação <br><br>
+                👩🏽‍💻 Estagiário<br><br>
+                🔤 Aprendendo a falar inglês<br><br>
+                🌃 Brasília - Brasil<br><br>
+                ⚽ Fluminense 
                 <br>
-                    ◽️ Me chamo Lucas Freitas, tenho 19 anos e sou de Brasília-DF! Sou estudante de Ciências da Computação e estou cursando o 4 semestre. <br><br>
-                    ◽️ Atualmente estou estagiando! Procuro sempre aprender coisas novas, inclusive da área onde eu estou estagiando! <br><br>
-                    ◽️ Entrei pra esse mundo, pois era uma área que sempre me interessei e sempre gosto de aprender coisas novas! 
-                <br><br>
             </td>
         </tr>
     </table>
 </div>
 
+---
+
 <div align="center">
     <a href="https://www.instagram.com/__.fr3it4s.__/" target="_blank">
         <img 
-            src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=A020F0&logoColor=white&labelColor=&style=for-the-badge" 
+            src="https://img.shields.io/badge/instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=9644CD" 
             style="height:40px" 
             alt="instagram logo"
         />
     </a>
-    <a href="https://open.spotify.com/user/6atv4j3yoivc7yidi4tf3e00h?si=a7882472f98742e8" target="_blank">
+    <a href="https://discord.com/users/1043680764140736612" target="_blank">
         <img 
-            src="https://img.shields.io/static/v1?message=spotify&logo=spotify&label=&color=A020F0&logoColor=white&labelColor=&style=for-the-badge"
+            src="https://img.shields.io/badge/discord-1a1b27?style=for-the-badge&logo=discord&logoColor=9644CD" 
             style="height:40px" 
-            alt="spotify logo" 
+            alt="discord logo" 
         />
     </a>
     <a href="https://www.linkedin.com/in/lucasfr3itas/" target="_blank">
         <img
-            src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=A020F0&logoColor=white&labelColor=&style=for-the-badge" 
+            src="https://img.shields.io/badge/linkedin-1a1b27?style=for-the-badge&logo=linkedin&logoColor=9644CD" 
             style="height:40px" 
             alt="linkedin logo"
         />
     </a>
-    <a href="mailto:freitas.lucasaf@gmail.com" target="_blank">
+    <a href="https://open.spotify.com/user/6atv4j3yoivc7yidi4tf3e00h?si=a7882472f98742e8" target="_blank">
+        <img 
+            src="https://img.shields.io/badge/spotify-1a1b27?style=for-the-badge&logo=spotify&logoColor=9644CD"
+            style="height:40px" 
+            alt="spotify logo" 
+        />
+    </a>
+    <a href="freitas.lucasaf@gmail.com" target="_blank">
         <img
-            src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=A020F0&logoColor=white&labelColor=&style=for-the-badge" 
+            src="https://img.shields.io/badge/gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=9644CD" 
             style="height:40px" 
             alt="gmail logo"
         />
@@ -67,7 +77,7 @@
 ---
 
 <div align="center"> 
-  <h1>📊Linguagens </h1>
+    <h1>🖥️Linguagens </h1>
     <img 
         align="center" 
         alt="Python" 
@@ -121,7 +131,7 @@
 ---
 
 <div align="center"> 
-    <h1>🛠️ Ferramentas</h1>
+    <h1>🛠️ Software</h1>
     <img
         align="center"
         alt="github"
@@ -172,16 +182,42 @@
 </div>
 
 <br>
-<br>
 
 <div align="center">
-    <p>
-        <img
-            height="200"
-            style="padding-left: 10px; width: 490px;"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasaf&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=9"
-        />
-    </p>
+    <h1>📊Status GitHub</h1>
+</div>
+
+<div>
+    <img 
+        align="center" 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=devlucasaf&theme=rogue&hide_border=true&line=fe428e&bg_color=transparent&title_color=fe428e"
+    />
+</div>
+
+<div>
+    <table>
+        <tr>
+            <td align="left">
+                <img 
+                    height="400px"
+                    style="width: 490px;"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasaf&langs_count=8&theme=transparent&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true"
+                />
+            </td>
+            <td align="right">
+                <img 
+                    height="210px"
+                    style="width: 490px;"
+                    src="https://github-readme-stats.vercel.app/api?username=devlucasaf&show_icons=true&custom_title=Lucas's%20Github%20Stats&theme=transparent&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true"
+                />
+                <br/>
+                <img 
+                    height="200px"
+                    src="https://github-readme-streak-stats.herokuapp.com/?user=devlucasaf&theme=transparent&border=E4E2E2&stroke=E4E2E2&ring=FE428E&fire=FE428E&currStreakNum=F8D847&sideNums=FE428E&currStreakLabel=F8D847&sideLabels=FE428E&dates=A9FEF7&excludeDaysLabel=A9FEF7&hide_border=true"
+                />
+            </td>
+        </tr>
+    </table>
 </div>
 
 <br>
@@ -202,9 +238,9 @@
 
 <p align="right">
     <a href="#top">
-    <img 
-        src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=7E3ACE&style=for-the-badge" 
-        alt="voltar ao topo" 
-    />
+        <img 
+            src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=7E3ACE&style=for-the-badge" 
+            alt="voltar ao topo" 
+        />
     </a>
 </p>
