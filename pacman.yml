@@ -3,7 +3,7 @@ name: Generate Pacman Contribution Graph
 on:
   schedule:
     - cron: "0 0 * * *" # roda 1x por dia
-  workflow_dispatch:    # permite executar manualmente
+  workflow_dispatch:    # permite rodar manualmente
 
 jobs:
   build:
@@ -16,6 +16,7 @@ jobs:
         uses: yoshi389111/github-profile-pacman@v1.0.1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: devlucasaf  # <--- seu usuário aqui
 
       - name: Commit and push if changed
         run: |
