@@ -201,19 +201,19 @@
                 <img 
                     height="400px"
                     style="width: 490px;"
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasaf&langs_count=8&theme=transparent&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasaf&langs_count=8&theme=dracula&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true"
                 />
             </td>
             <td align="right">
                 <img 
                     height="210px"
                     style="width: 490px;"
-                    src="https://github-readme-stats.vercel.app/api?username=devlucasaf&show_icons=true&custom_title=Lucas's%20Github%20Stats&theme=transparent&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true"
+                    src="https://github-readme-stats.vercel.app/api?username=devlucasaf&show_icons=true&custom_title=Lucas%20Github%20Stats&theme=dracula&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true"
                 />
                 <br/>
                 <img 
                     height="200px"
-                    src="https://github-readme-streak-stats.herokuapp.com/?user=devlucasaf&theme=transparent&border=E4E2E2&stroke=E4E2E2&ring=FE428E&fire=FE428E&currStreakNum=F8D847&sideNums=FE428E&currStreakLabel=F8D847&sideLabels=FE428E&dates=A9FEF7&excludeDaysLabel=A9FEF7&hide_border=true"
+                    src="https://github-readme-streak-stats.herokuapp.com/?user=devlucasaf&theme=dracula&border=E4E2E2&stroke=E4E2E2&ring=FE428E&fire=FE428E&currStreakNum=F8D847&sideNums=FE428E&currStreakLabel=F8D847&sideLabels=FE428E&dates=A9FEF7&excludeDaysLabel=A9FEF7&hide_border=true"
                 />
             </td>
         </tr>
