@@ -90,6 +90,14 @@
         style="padding-right: 10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
     />
+    <img
+        align="center"
+        alt="Ruby"
+        tittle="Ruby"
+        height="60" 
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"
+    />
     <img 
         align="center"
         alt="JavaScript"
@@ -169,6 +177,14 @@
     />
     <img
         align="center"
+        alt="JetBrains"
+        tittle="JetBrains"
+        height="60"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"
+    />
+    <img
+        align="center"
         alt="intellij"
         tittle="Intellij IDEA"
         height="60" 
@@ -185,11 +201,11 @@
     />
     <img
         align="center"
-        alt="JetBrains"
-        tittle="JetBrains"
+        alt="RubyMine"
+        tittle="RubyMine"
         height="60"
         style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubymine/rubymine-original.svg"
     />
 </div>
 
@@ -211,11 +227,9 @@
         <tr>
             <td align="left">
                 <img 
-                    alt="Top Languages"
-                    height="400px"
-                    style="width: 490px;"
-                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasaf&langs_count=8&theme=transparent&layout=compact&custom_title=Tecnologias&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true"
-                />
+                    align="left" 
+                    height="400px" 
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasaf&langs_count=8&theme=transparent&custom_title=Tecnologia&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true">
             </td>
             <td align="right">
                 <img 
