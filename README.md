@@ -140,6 +140,14 @@
     />
     <img
         align="center"
+        alt="git"
+        tittle="Git"
+        height="60"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+    />
+    <img
+        align="center"
         alt="VsCode"
         tittle="VsCode"
         height="60" 
@@ -177,6 +185,14 @@
         style="padding-right: 10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"
     />
+    <img
+        align="center"
+        alt="JetBrains"
+        tittle="JetBrains"
+        height="60"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"
+    />
 </div>
 
 <br>
@@ -204,15 +220,9 @@
             </td>
             <td align="right">
                 <img 
-                    height="210px"
+                    height="400px"
                     style="width: 490px;"
                     src="https://github-readme-stats.vercel.app/api?username=devlucasaf&show_icons=true&custom_title=Lucas%20Github%20Stats&theme=transparent&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true"
-                />
-                <br>
-                <img 
-                    height="200px"
-                    style="width: 490px"
-                    src="https://github-readme-streak-stats.herokuapp.com/?user=devlucasaf&theme=transparent&border=E4E2E2&stroke=E4E2E2&ring=FE428E&fire=FE428E&currStreakNum=F8D847&sideNums=FE428E&currStreakLabel=F8D847&sideLabels=FE428E&dates=A9FEF7&excludeDaysLabel=A9FEF7&hide_border=true"
                 />
             </td>
         </tr>
