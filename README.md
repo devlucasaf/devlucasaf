@@ -20,23 +20,21 @@
     <h1 align="center">💡 Quem Sou Eu?</h1>
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div>
-        📚 Estudante de Ciência da Computação <br><br>
-        👩🏽‍💻 Estagiário<br><br>
-        🔤 Aprendendo a falar inglês<br><br>
-        🌃 Brasília - Brasil<br>
-    </div>
-    <div>
-        <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=6atv4j3yoivc7yidi4tf3e00h&redirect=true">
-            <img 
-                src="https://spotify-github-profile.kittinanx.com/api/view?uid=6atv4j3yoivc7yidi4tf3e00h&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark"
-                style="display: block;"
-            />
-        </a>
-    </div>
-</div>
-
+<table width="100%">
+  <tr>
+    <td width="40%" valign="top">
+      📚 Estudante de Ciência da Computação<br>
+      👩🏽‍💻 Estagiário<br>
+      🔤 Aprendendo a falar inglês<br>
+      🌃 Brasília - Brasil
+    </td>
+    <td width="60%" align="right" valign="top">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=6atv4j3yoivc7yidi4tf3e00h&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=6atv4j3yoivc7yidi4tf3e00h&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark">
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 
 <div align="center">
