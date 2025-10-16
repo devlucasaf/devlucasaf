@@ -23,10 +23,12 @@
 <table width="100%">
   <tr>
     <td width="40%" valign="top">
-      📚 Estudante de Ciência da Computação<br>
-      👩🏽‍💻 Estagiário<br>
-      🔤 Aprendendo a falar inglês<br>
-      🌃 Brasília - Brasil
+        📚 Estudante de Ciência da Computação<br>
+        👩🏽‍💻 Estagiário da CAESB<br>
+        🔤 Aprendendo a falar inglês<br>
+        🌃 Brasília - Brasil<br>
+        ⚽ Fluminense<br>
+        💭 CyberSecurity
     </td>
     <td width="60%" align="right" valign="top">
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=6atv4j3yoivc7yidi4tf3e00h&redirect=true">
