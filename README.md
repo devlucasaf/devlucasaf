@@ -37,7 +37,6 @@
     </td>
   </tr>
 </table>
----
 
 <div align="center">
     <a href="https://www.instagram.com/__.fr3it4s.__/" target="_blank">
