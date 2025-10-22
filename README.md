@@ -166,14 +166,6 @@
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
     />
-    <img
-        align="center"
-        alt="Microsoft Edge"
-        tittle="Microsoft Edge"
-        height="60"
-        style="padding-right: 10px;"
-        src="https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Edge_logo_%282019%29.svg"
-    />
     <img 
         align="center"
         title="MS Windows" 
