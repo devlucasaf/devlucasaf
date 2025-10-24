@@ -136,6 +136,14 @@
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
     />
+    <img
+        align="center" 
+        alt="SQL" 
+        title="SQL"
+        height="60" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+    />
 </div>
 
 ---
@@ -166,6 +174,14 @@
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
     />
+    <img
+        align="center"
+        alt="Visual Studio"
+        tittle="Visual Studio"
+        height="60" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg"
+    />
     <img 
         align="center"
         title="MS Windows" 
@@ -175,11 +191,11 @@
     />
     <img
         align="center"
-        alt="JetBrains"
-        tittle="JetBrains"
+        alt="PostgreSQL"
+        tittle="PostgreSQL"
         height="60"
         style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
     />
     <img
         align="center"
