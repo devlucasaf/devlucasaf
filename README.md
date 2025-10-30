@@ -27,7 +27,6 @@
         👩🏽‍💻 Estagiário da CAESB<br>
         🔤 Aprendendo a falar inglês<br>
         🌃 Brasília - Brasil<br>
-        ⚽ Fluminense<br>
         💭 CyberSecurity
     </td>
     <td width="60%" align="right" valign="top">
@@ -67,7 +66,7 @@
             alt="spotify logo" 
         />
     </a>
-    <a href="freitas.lucasaf@gmail.com" target="_blank">
+    <a href="mailto:freitas.lucasaf@gmail.com" target="_blank">
         <img
             src="https://img.shields.io/badge/gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=9644CD" 
             style="height:40px" 
@@ -181,13 +180,6 @@
         height="60" 
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg"
-    />
-    <img 
-        align="center"
-        title="MS Windows" 
-        alt="microsoft windows" 
-        height="60" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" 
     />
     <img
         align="center"
