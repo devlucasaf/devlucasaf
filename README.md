@@ -82,44 +82,12 @@
 <div align="center"> 
     <h1>🖥️Linguagens </h1>
     <img 
-        align="center" 
-        alt="Python" 
-        title="Python"
-        height="60" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-    />
-    <img
-        align="center"
-        alt="Java"
-        tittle="Java"
-        height="60" 
-        style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-    />
-    <img
-        align="center"
-        alt="Ruby"
-        tittle="Ruby"
-        height="60" 
-        style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"
-    />
-    <img 
         align="center"
         alt="JavaScript"
         tittle="JavaScript"
         height="60" 
         style="padding-right: 10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-    />
-    <img
-        align="center" 
-        alt="Django" 
-        title="Django"
-        height="60" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
     />
     <img
         align="center" 
@@ -139,11 +107,43 @@
     />
     <img
         align="center" 
+        alt="Django" 
+        title="Django"
+        height="60" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
+    />
+    <img
+        align="center" 
         alt="SQL" 
         title="SQL"
         height="60" 
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+    />
+    <img
+        align="center"
+        alt="Java"
+        tittle="Java"
+        height="60" 
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+    />
+    <img 
+        align="center" 
+        alt="Python" 
+        title="Python"
+        height="60" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    />
+    <img
+        align="center"
+        alt="Ruby"
+        tittle="Ruby"
+        height="60" 
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"
     />
 </div>
 
