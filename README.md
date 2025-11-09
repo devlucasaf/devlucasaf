@@ -19,23 +19,26 @@
 <div>
     <h1 align="center">💡 Quem Sou Eu?</h1>
 </div>
+
 <div align="center">
     <table width="100%">
-      <tr>
-        <td width="40%" valign="top">
-            📚 Estudante de Ciência da Computação<br>
-            👩🏽‍💻 Estagiário da CAESB<br>
-            🔤 Inglês intermediário<br>
-            🌃 Brasília - Brasil<br>
-            💭 CyberSecurity<br>
-            ⚽Fluminense
-        </td>
-        <td width="60%" align="right" valign="top">
-          <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=6atv4j3yoivc7yidi4tf3e00h&redirect=true">
-            <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=6atv4j3yoivc7yidi4tf3e00h&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark">
-          </a>
-        </td>
-      </tr>
+        <tr>
+            <td width="40%" valign="top">
+                📚 Estudante de Ciência da Computação<br>
+                👩🏽‍💻 Estagiário da CAESB<br>
+                🔤 Inglês intermediário<br>
+                🌃 Brasília - Brasil<br>
+                💭 CyberSecurity<br>
+                ⚽Fluminense
+            </td>
+            <td width="60%" align="right" valign="top">
+                <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=6atv4j3yoivc7yidi4tf3e00h&redirect=true">
+                    <img 
+                        src="https://spotify-github-profile.kittinanx.com/api/view?uid=6atv4j3yoivc7yidi4tf3e00h&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark"
+                    />
+                </a>
+            </td>
+        </tr>
     </table>
 </div>
 
@@ -264,7 +267,6 @@
             src="https://raw.githubusercontent.com/devlucasaf/devlucasaf/output/pacman-contribution-graph.svg"
     />
 </picture>
-
 
 <br>
 
