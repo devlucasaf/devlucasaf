@@ -90,7 +90,7 @@
         tittle="JavaScript"
         height="60" 
         style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+        src="https://skillicons.dev/icons?i=javascript" 
     />
     <img
         align="center" 
@@ -98,7 +98,7 @@
         title="HTML"
         height="60" 
         style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        src="https://skillicons.dev/icons?i=html"
     />
     <img
         align="center" 
@@ -106,7 +106,7 @@
         title="CSS"
         height="60" 
         style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        src="https://skillicons.dev/icons?i=css"
     />
     <img
         align="center" 
@@ -114,7 +114,7 @@
         title="Django"
         height="60" 
         style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
+        src="https://skillicons.dev/icons?i=django"
     />
     <img
         align="center" 
@@ -122,7 +122,7 @@
         title="SQL"
         height="60" 
         style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+        src="https://skillicons.dev/icons?i=mysql"
     />
     <img
         align="center"
@@ -130,7 +130,8 @@
         tittle="Java"
         height="60" 
         style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+        href="https://skillicons.dev"
+        src="https://skillicons.dev/icons?i=java"
     />
     <img 
         align="center" 
@@ -138,7 +139,8 @@
         title="Python"
         height="60" 
         style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        href="https://skillicons.dev"
+        src="https://skillicons.dev/icons?i=python"
     />
     <img
         align="center"
@@ -146,7 +148,8 @@
         tittle="Ruby"
         height="60" 
         style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"
+        href="https://skillicons.dev"
+        src="https://skillicons.dev/icons?i=ruby"
     />
 </div>
 
@@ -160,7 +163,7 @@
         tittle="GitHub"
         height="60" 
         style="padding-right: 10px;" 
-        src="https://cdn-icons-png.flaticon.com/512/733/733553.png"
+        src="https://skillicons.dev/icons?i=github"
     />
     <img
         align="center"
@@ -168,7 +171,7 @@
         tittle="Git"
         height="60"
         style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        src="https://skillicons.dev/icons?i=git"
     />
     <img
         align="center"
