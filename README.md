@@ -179,7 +179,7 @@
         tittle="VsCode"
         height="60" 
         style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+        src="https://skillicons.dev/icons?i=vscode"
     />
     <img
         align="center"
@@ -187,7 +187,7 @@
         tittle="Visual Studio"
         height="60" 
         style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg"
+        src="https://skillicons.dev/icons?i=visualstudio"
     />
     <img
         align="center"
@@ -195,7 +195,7 @@
         tittle="PostgreSQL"
         height="60"
         style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+        src="https://skillicons.dev/icons?i=postgresql"
     />
     <img
         align="center"
