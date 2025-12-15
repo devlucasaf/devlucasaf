@@ -3,31 +3,50 @@
     src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"
 />
 
+<div align="center">
+    <h1>💻Lucas Freitas💻</h1>
+</div>
 
-# 💻 Lucas Freitas 💻
+<p align="center">
+    <a href="https://git.io/typing-svg">
+        <img 
+            src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&width=435&lines=Hello+World!;Back-End+em+desenvolvimento!" 
+            alt="Typing SVG" 
+        />
+    </a>
+</p>
 
-[![](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&width=435&lines=Hello+World!;Back-End+in+Development!)](https://git.io/typing-svg)
+<div>
+    <h1 align="center">💡 Sobre Mim</h1>
+</div>
 
----
+<div align="center">
+    <table width="100%">
+        <tr>
+            <td width="40%" valign="top">
+                📚 Estudante de Ciência da Computação<br>
+                👩🏽‍💻 Estagiário da Caesb<br>
+                🔤 Inglês Intermediário<br>
+                🌃 Brasília - Brasil<br>
+                💭 CyberSecurity<br>
+                ⚽ Fluminense
+            </td>
+            <td width="60%" align="right" valign="top">
+                <a href="https://github.com/kittinan/spotify-github-profile">
+                    <img 
+                        src="https://spotify-github-profile.kittinanx.com/api/view?uid=6atv4j3yoivc7yidi4tf3e00h&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark"
+                    />
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
 
-# 💡 About Me?
+<div>
+    <h1 align="center">👥 Contatos</h1>
+<div>
 
-* 📚 Computer Science Student
-* 👩🏽‍💻 Intern at Caesb
-* 🔤 Intermediate English
-* 🌃 Brasília - Brazil
-* 💭 CyberSecurity
-* ⚽ Fluminense
-
-## 🎶 O que estou ouvindo?
-
-[![Spotify Profile](https://spotify-github-profile.kittinanx.com/api/view?uid=6atv4j3yoivc7yidi4tf3e00h&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
-
----
-
-# 👥 Contacts
-
-<div align="left">
+<div align="center">
     <a href="https://www.instagram.com/__.fr3it4s.__/" target="_blank">
         <img 
             src="https://img.shields.io/badge/instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=9644CD" 
@@ -67,14 +86,13 @@
 
 ---
 
-# 🖥️ Linguagens
-
-<div align="left">
+<div align="center"> 
+    <h1>🖥️Linguagens </h1>
     <img 
         align="center"
         alt="JavaScript"
         tittle="JavaScript"
-        height="40" 
+        height="60" 
         style="padding-right: 10px;"
         src="https://skillicons.dev/icons?i=javascript" 
     />
@@ -82,7 +100,7 @@
         align="center" 
         alt="HTML" 
         title="HTML"
-        height="40" 
+        height="60" 
         style="padding-right: 10px;" 
         src="https://skillicons.dev/icons?i=html"
     />
@@ -90,7 +108,7 @@
         align="center" 
         alt="CSS" 
         title="CSS"
-        height="40" 
+        height="60" 
         style="padding-right: 10px;" 
         src="https://skillicons.dev/icons?i=css"
     />
@@ -98,7 +116,7 @@
         align="center" 
         alt="Django" 
         title="Django"
-        height="40" 
+        height="60" 
         style="padding-right: 10px;" 
         src="https://skillicons.dev/icons?i=django"
     />
@@ -106,7 +124,7 @@
         align="center" 
         alt="SQL" 
         title="SQL"
-        height="40" 
+        height="60" 
         style="padding-right: 10px;" 
         src="https://skillicons.dev/icons?i=mysql"
     />
@@ -114,7 +132,7 @@
         align="center"
         alt="Java"
         tittle="Java"
-        height="40" 
+        height="60" 
         style="padding-right: 10px;"
         href="https://skillicons.dev"
         src="https://skillicons.dev/icons?i=java"
@@ -123,7 +141,7 @@
         align="center" 
         alt="Python" 
         title="Python"
-        height="40" 
+        height="60" 
         style="padding-right: 10px;" 
         href="https://skillicons.dev"
         src="https://skillicons.dev/icons?i=python"
@@ -132,7 +150,7 @@
         align="center"
         alt="Ruby"
         tittle="Ruby"
-        height="40" 
+        height="60" 
         style="padding-right: 10px;"
         href="https://skillicons.dev"
         src="https://skillicons.dev/icons?i=ruby"
@@ -141,14 +159,13 @@
 
 ---
 
-# 🛠️ Software
-
-<div align="left"> 
+<div align="center"> 
+    <h1>🛠️ Software</h1>
     <img
         align="center"
         alt="github"
         tittle="GitHub"
-        height="40" 
+        height="60" 
         style="padding-right: 10px;" 
         src="https://skillicons.dev/icons?i=github"
     />
@@ -156,7 +173,7 @@
         align="center"
         alt="git"
         tittle="Git"
-        height="40"
+        height="60"
         style="padding-right: 10px;"
         src="https://skillicons.dev/icons?i=git"
     />
@@ -164,7 +181,7 @@
         align="center"
         alt="VsCode"
         tittle="VsCode"
-        height="40" 
+        height="60" 
         style="padding-right: 10px;" 
         src="https://skillicons.dev/icons?i=vscode"
     />
@@ -172,7 +189,7 @@
         align="center"
         alt="Visual Studio"
         tittle="Visual Studio"
-        height="40" 
+        height="60" 
         style="padding-right: 10px;" 
         src="https://skillicons.dev/icons?i=visualstudio"
     />
@@ -180,7 +197,7 @@
         align="center"
         alt="PostgreSQL"
         tittle="PostgreSQL"
-        height="40"
+        height="60"
         style="padding-right: 10px;"
         src="https://skillicons.dev/icons?i=postgresql"
     />
@@ -188,7 +205,7 @@
         align="center"
         alt="intellij"
         tittle="Intellij IDEA"
-        height="40" 
+        height="60" 
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
     />
@@ -196,7 +213,7 @@
         align="center"
         alt="PyCharm"
         tittle="PyCharm"
-        height="40"
+        height="60"
         style="padding-right: 10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"
     />
@@ -204,15 +221,17 @@
         align="center"
         alt="RubyMine"
         tittle="RubyMine"
-        height="40"
+        height="60"
         style="padding-right: 10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubymine/rubymine-original.svg"
     />
 </div>
 
----
+<br>
 
-# 📊 Status GitHub
+<div align="center">
+    <h1>📊Status GitHub</h1>
+</div>
 
 <div>
     <img 
@@ -221,29 +240,40 @@
     />
 </div>
 
-<table>
-    <tr>
-        <td align="left">
-            <img 
-                height="400px"
-                style="width: 490px;"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasaf&langs_count=8&theme=transparent&custom_title=Technologies&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true"
-            />
-        </td>
-        <td align="right">
-            <img 
-                height="210px"
-                style="width: 490px;"
-                src="https://github-readme-stats.vercel.app/api?username=devlucasaf&show_icons=true&custom_title=Lucas's%20Github%20Stats&theme=transparent&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true"
-            />
-            <br>
-            <img 
-                height="200px"
-                src="https://github-readme-streak-stats.herokuapp.com/?user=devlucasaf&theme=transparent&border=E4E2E2&stroke=E4E2E2&ring=FE428E&fire=FE428E&currStreakNum=F8D847&sideNums=FE428E&currStreakLabel=F8D847&sideLabels=FE428E&dates=A9FEF7&excludeDaysLabel=A9FEF7&hide_border=true"
-            />
-        </td>
-    </tr>
-</table>
+<div align="center">
+    <table>
+        <tr>
+            <td align="left">
+                <img 
+                    align="left" 
+                    height="400px" 
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasaf&langs_count=8&theme=transparent&custom_title=Tecnologia&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true">
+            </td>
+            <td align="right">
+                <img 
+                    height="400px"
+                    style="width: 490px;"
+                    src="https://github-readme-stats.vercel.app/api?username=devlucasaf&show_icons=true&custom_title=Lucas%20Github%20Stats&theme=transparent&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true"
+                />
+            </td>
+        </tr>
+    </table>
+</div>
+
+<picture>
+    <source 
+            media="(prefers-color-scheme: dark)" 
+            srcset="https://raw.githubusercontent.com/devlucasaf/devlucasaf/output/pacman-contribution-graph-dark.svg"
+    />
+    <source 
+            media="(prefers-color-scheme: light)" 
+            srcset="https://raw.githubusercontent.com/devlucasaf/devlucasaf/output/pacman-contribution-graph.svg"
+    />
+    <img 
+            alt="pacman contribution graph" 
+            src="https://raw.githubusercontent.com/devlucasaf/devlucasaf/output/pacman-contribution-graph.svg"
+    />
+</picture>
 
 <br>
 
@@ -265,7 +295,7 @@
     <a href="#top">
         <img 
             src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=7E3ACE&style=for-the-badge" 
-            alt="back to top" 
+            alt="voltar ao topo" 
         />
     </a>
 </p>
