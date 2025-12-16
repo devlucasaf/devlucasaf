@@ -15,46 +15,101 @@
     </a>
 </div>
 
+<table align="right">
+    <tr>
+        <td>
+            <a href="https://github.com/devlucasaf/devlucasaf/blob/main/README.md">
+                <img 
+                    src="./assets/us_flag.png" 
+                    alt="US flag" 
+                    width="17px"
+                /> 
+                English
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/devlucasaf/devlucasaf/blob/main/README-pt-br.md">
+                <img 
+                    src="./assets/br_flag.png" 
+                    alt="Brazil flag" 
+                    width="17px"
+                />  
+                Português
+            </a>
+        </td>
+    </tr>
+</table>
+
 ---
 
 # 💡 About Me?
+```
+* 📚 I'm a Computer Science student, currently in my 4th semester and going into my 5th semester.
+* 👩🏽‍💻 Intern at Caesb.
+* 🔤 Intermediate level in English, but I continue studying at Casa Thomas Jefferson.
+* 🌃 Brasilia - Brazil.
+* 💭 I am interested in web development and intend to persue a career in Cybersecurity.
+* ⚽ Passionate Fluminense fan (#outwithevestum).
+* 🎧 I'm passionate about music and rock! My favorite band is Green Day.
+* 💼 Here I share my projects, experiences, and lessons learned.
+```
 
-* 📚 Computer Science Student
-* 👩🏽‍💻 Intern at Caesb
-* 🔤 Intermediate English
-* 🌃 Brasília - Brazil
-* 💭 CyberSecurity
-* ⚽ Fluminense
-
-## 🎶 O que estou ouvindo?
+## 🎶 Now playing
 
 [![Spotify Profile](https://spotify-github-profile.kittinanx.com/api/view?uid=6atv4j3yoivc7yidi4tf3e00h&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
 
-<details>
-    <summary>Recently played</summary>
-    <!-- Substitua YOUR_SPOTIFY_USER_ID pelo seu ID de usuário do Spotify -->
-    <a href="https://open.spotify.com/user/6atv4j3yoivc7yidi4tf3e00h">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=6atv4j3yoivc7yidi4tf3e00h&unique=true&count=10" alt="Spotify recently played">
-    </a>
-</details>
+## 🎧 My Favorites Albums
 
-<h3>headphones: My favorites albums</h3>
-
-<!-- Substitua com seus álbuns favoritos do Last.fm (opcional) -->
 <p align="center">
-    <!-- Exemplo de álbuns - substitua pelos seus -->
     <a href="https://www.last.fm/pt/music/Green+Day/American+Idiot">
         <img 
             src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" 
-            style="height:120px" 
+            style="height:100px" 
             title="Green Day - American Idiot"
         />
     </a>
     <a href="https://www.last.fm/pt/music/Avenged+Sevenfold/Nightmare">
         <img 
-            src="https://open.spotify.com/intl-pt/track/4UEo1b0wWrtHMC8bVqPiH8" 
-            style="height:120px" 
+            src="https://i.scdn.co/image/ab67616d0000b273c34064a3c5e4a25892a091f3" 
+            style="height:100px" 
             title="Avenged Sevenfold - Nightmare"
+        />
+    </a>
+    <a href="https://www.last.fm/music/Foo+Fighters/There+Is+Nothing+Left+to+Lose">
+        <img 
+            src="https://i.scdn.co/image/ab67616d0000b273b01a979fdf8677aa8da7f280" 
+            style="height:100px" 
+            title="Foo Fighters - There Is Nothing Left to Lose"
+        />
+    </a>
+    <a href="https://www.last.fm/music/Pink+Floyd/The+Dark+Side+of+the+Moon">
+        <img 
+            src="https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6" 
+            style="height:100px" 
+            title="Pink Floyd - The Dark Side of the Moon"
+        />
+    </a>
+    <a href="https://www.last.fm/music/Link+Park/Hybrid+Theory">
+        <img 
+            src="https://i.scdn.co/image/ab67616d0000b2736741ca6e9ba6fdc166037321" 
+            style="height:100px" 
+            title="Linkin Park - Hybrid Theory"
+        />
+    </a>
+    <a href="https://www.last.fm/music/Led+Zeppelin/Led+Zeppelin+IV">
+        <img 
+            src="https://i.scdn.co/image/ab67616d0000b2734509204d0860cc0cc67e83dc" 
+            style="height:100px" 
+            title="Led Zeppelin - Led Zeppelin IV"
+        />
+    </a>
+    <a href="https://www.last.fm/pt/music/Green+Day/Dookie">
+        <img 
+            src="https://i.scdn.co/image/ab67616d0000b273db89b08034de626ebee6823d" 
+            style="height:100px" 
+            title="Green Day - Dookie"
         />
     </a>
 </p>

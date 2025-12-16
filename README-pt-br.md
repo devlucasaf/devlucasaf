@@ -6,61 +6,163 @@
 
 # 💻 Lucas Freitas 💻
 
-[![](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&width=435&lines=Hello+World!;Back-End+in+Development!)](https://git.io/typing-svg)
+<div align="left">
+    <a href="https://git.io/typing-svg">
+        <img 
+            src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F7F7F7&background=FFFFFF00&left=true&width=435&lines=Hello+World!;Back-End+in+Development!" 
+            alt="Typing SVG" 
+        />
+    </a>
+</div>
+
+<table align="right">
+    <tr>
+        <td>
+            <a href="https://github.com/devlucasaf/devlucasaf/blob/main/README.md">
+                <img 
+                    src="./assets/us_flag.png" 
+                    alt="US flag" 
+                    width="17px"
+                /> 
+                English
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/devlucasaf/devlucasaf/blob/main/README-pt-br.md">
+                <img 
+                    src="./assets/br_flag.png" 
+                    alt="Brazil flag" 
+                    width="17px"
+                />  
+                Português
+            </a>
+        </td>
+    </tr>
+</table>
 
 ---
 
-# 💡 About Me?
+# 💡 Sobre mim
+```
+* 📚 Sou estudante de Ciência da Computação, atualmente no meu 4º semestre e prestes a iniciar o 5º semestre..
+* 👩🏽‍💻 Estagiário da Caesb.
+* 🔤 Meu nível de inglês é intermediário, mas continuo estudando na Casa Thomas Jefferson..
+* 🌃 Brasília - Brasil.
+* 💭 Tenho interesse em desenvolvimento web e pretendo seguir carreira em CiberSegurança.
+* ⚽ Torcedor apaixonado do Fluminense (#foraEveStum).
+* 🎧 Sou apaixonado por música e rock! Minha banda favorita é Green Day..
+* 💼 Aqui compartilho meus projetos, experiências e aprendizados.
+```
 
-* 📚 Computer Science Student
-* 👩🏽‍💻 Intern at Caesb
-* 🔤 Intermediate English
-* 🌃 Brasília - Brazil
-* 💭 CyberSecurity
-* ⚽ Fluminense
+## 🎧 Tocando agora
 
-## 🎶 O que estou ouvindo?
+<table align="center">
+    <tr>
+        <td width="500" align="center">
+            <a href="https://github.com/kittinan/spotify-github-profile">
+                <img
+                    src="https://spotify-github-profile.kittinanx.com/api/view?uid=6atv4j3yoivc7yidi4tf3e00h&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark"
+                    alt="Spotify Now Playing"
+                />
+            </a>
+        </td>
+    </tr>
+</table>
 
-[![Spotify Profile](https://spotify-github-profile.kittinanx.com/api/view?uid=6atv4j3yoivc7yidi4tf3e00h&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
+## 🎶 Meus Álbuns Favoritos
+
+<p align="center">
+    <a href="https://www.last.fm/pt/music/Green+Day/American+Idiot">
+        <img 
+            src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" 
+            style="height:100px" 
+            title="Green Day - American Idiot"
+        />
+    </a>
+    <a href="https://www.last.fm/pt/music/Avenged+Sevenfold/Nightmare">
+        <img 
+            src="https://i.scdn.co/image/ab67616d0000b273c34064a3c5e4a25892a091f3" 
+            style="height:100px" 
+            title="Avenged Sevenfold - Nightmare"
+        />
+    </a>
+    <a href="https://www.last.fm/music/Foo+Fighters/There+Is+Nothing+Left+to+Lose">
+        <img 
+            src="https://i.scdn.co/image/ab67616d0000b273b01a979fdf8677aa8da7f280" 
+            style="height:100px" 
+            title="Foo Fighters - There Is Nothing Left to Lose"
+        />
+    </a>
+    <a href="https://www.last.fm/music/Pink+Floyd/The+Dark+Side+of+the+Moon">
+        <img 
+            src="https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6" 
+            style="height:100px" 
+            title="Pink Floyd - The Dark Side of the Moon"
+        />
+    </a>
+    <a href="https://www.last.fm/music/Link+Park/Hybrid+Theory">
+        <img 
+            src="https://i.scdn.co/image/ab67616d0000b2736741ca6e9ba6fdc166037321" 
+            style="height:100px" 
+            title="Linkin Park - Hybrid Theory"
+        />
+    </a>
+    <a href="https://www.last.fm/music/Led+Zeppelin/Led+Zeppelin+IV">
+        <img 
+            src="https://i.scdn.co/image/ab67616d0000b2734509204d0860cc0cc67e83dc" 
+            style="height:100px" 
+            title="Led Zeppelin - Led Zeppelin IV"
+        />
+    </a>
+    <a href="https://www.last.fm/pt/music/Green+Day/Dookie">
+        <img 
+            src="https://i.scdn.co/image/ab67616d0000b273db89b08034de626ebee6823d" 
+            style="height:100px" 
+            title="Green Day - Dookie"
+        />
+    </a>
+</p>
 
 ---
 
-# 👥 Contacts
+# 👥 Contatos
 
 <div align="left">
     <a href="https://www.instagram.com/__.fr3it4s.__/" target="_blank">
         <img 
             src="https://img.shields.io/badge/instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=9644CD" 
             style="height:40px" 
-            alt="instagram logo"
+            alt="Instagram"
         />
     </a>
     <a href="https://discord.com/users/1043680764140736612" target="_blank">
         <img 
             src="https://img.shields.io/badge/discord-1a1b27?style=for-the-badge&logo=discord&logoColor=9644CD" 
             style="height:40px" 
-            alt="discord logo" 
+            alt="Discord" 
         />
     </a>
     <a href="https://www.linkedin.com/in/lucasfr3itas/" target="_blank">
         <img
             src="https://img.shields.io/badge/linkedin-1a1b27?style=for-the-badge&logo=linkedin&logoColor=9644CD" 
             style="height:40px" 
-            alt="linkedin logo"
+            alt="LinkedIn"
         />
     </a>
     <a href="https://open.spotify.com/user/6atv4j3yoivc7yidi4tf3e00h?si=a7882472f98742e8" target="_blank">
         <img 
             src="https://img.shields.io/badge/spotify-1a1b27?style=for-the-badge&logo=spotify&logoColor=9644CD"
             style="height:40px" 
-            alt="spotify logo" 
+            alt="Spotify" 
         />
     </a>
     <a href="mailto:freitas.lucasaf@gmail.com" target="_blank">
         <img
             src="https://img.shields.io/badge/gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=9644CD" 
             style="height:40px" 
-            alt="gmail logo"
+            alt="Gmail"
         />
     </a>
 </div>
@@ -250,7 +352,7 @@
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img 
-            src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Obrigado+pela+sua+visita!++" 
+            src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Thank+you+for+your+visit!++" 
             alt="Typing SVG" 
         />
     </a>
