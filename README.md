@@ -158,7 +158,7 @@
 
 ---
 
-# 🖥️ Linguagens
+# 🖥️ Languages
 
 <div align="left">
     <img 
