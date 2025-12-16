@@ -6,7 +6,14 @@
 
 # 💻 Lucas Freitas 💻
 
-[![](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&width=435&lines=Hello+World!;Back-End+in+Development!)](https://git.io/typing-svg)
+<div align="left">
+    <a href="https://git.io/typing-svg">
+        <img 
+            src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F7F7F7&background=FFFFFF00&left=true&width=435&lines=Hello+World!;Back-End+in+Development!" 
+            alt="Typing SVG" 
+        />
+    </a>
+</div>
 
 ---
 
@@ -22,6 +29,35 @@
 ## 🎶 O que estou ouvindo?
 
 [![Spotify Profile](https://spotify-github-profile.kittinanx.com/api/view?uid=6atv4j3yoivc7yidi4tf3e00h&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
+
+<details>
+    <summary>Recently played</summary>
+    <!-- Substitua YOUR_SPOTIFY_USER_ID pelo seu ID de usuário do Spotify -->
+    <a href="https://open.spotify.com/user/6atv4j3yoivc7yidi4tf3e00h">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=6atv4j3yoivc7yidi4tf3e00h&unique=true&count=10" alt="Spotify recently played">
+    </a>
+</details>
+
+<h3>headphones: My favorites albums</h3>
+
+<!-- Substitua com seus álbuns favoritos do Last.fm (opcional) -->
+<p align="center">
+    <!-- Exemplo de álbuns - substitua pelos seus -->
+    <a href="https://www.last.fm/pt/music/Green+Day/American+Idiot">
+        <img 
+            src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" 
+            style="height:120px" 
+            title="Green Day - American Idiot"
+        />
+    </a>
+    <a href="https://www.last.fm/pt/music/Avenged+Sevenfold/Nightmare">
+        <img 
+            src="https://open.spotify.com/intl-pt/track/4UEo1b0wWrtHMC8bVqPiH8" 
+            style="height:120px" 
+            title="Avenged Sevenfold - Nightmare"
+        />
+    </a>
+</p>
 
 ---
 
@@ -234,7 +270,7 @@
             <img 
                 height="210px"
                 style="width: 490px;"
-                src="https://github-readme-stats.vercel.app/api?username=devlucasaf&show_icons=true&custom_title=Lucas's%20Github%20Stats&theme=transparent&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true"
+                src="https://github-readme-stats.vercel.app/api?username=devlucasaf&show_icons=true&custom_title=Lucas'%20Github%20Stats&theme=transparent&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true"
             />
             <br>
             <img 
@@ -250,7 +286,7 @@
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img 
-            src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Obrigado+pela+sua+visita!++" 
+            src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Thank+you+for+your+visit!++" 
             alt="Typing SVG" 
         />
     </a>
