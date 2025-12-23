@@ -116,11 +116,25 @@
             title="Led Zeppelin - Led Zeppelin IV"
         />
     </a>
-    <a href="https://www.last.fm/pt/music/Green+Day/Dookie">
+    <a href="https://www.last.fm/pt/music/Metallica/Ride+The+Lightning">
         <img 
-            src="https://i.scdn.co/image/ab67616d0000b273db89b08034de626ebee6823d" 
+            src="https://i.scdn.co/image/ab67616d0000b273b273e0a4432dbcff6df50e05" 
             style="height:100px" 
-            title="Green Day - Dookie"
+            title="Metallica - Ride The Lightning"
+        />
+    </a>
+    <a href="https://www.last.fm/pt/music/KISS/Destroyer">
+        <img 
+            src="https://i.scdn.co/image/ab67616d0000b2739309dd399ed75be936b8c1b6" 
+            style="height:100px" 
+            title="KISS - Destroyer"
+        />
+    </a>
+    <a href="https://www.last.fm/pt/music/Gojira/From+Mars+to+Sirius">
+        <img 
+            src="https://i.scdn.co/image/ab67616d0000b2730d7d4ee20c06739df97beb4c" 
+            style="height:100px" 
+            title="Gojira - From Mars to Sirius"
         />
     </a>
 </p>

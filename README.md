@@ -369,7 +369,7 @@
 <p align="right">
     <a href="#top">
         <img 
-            src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=7E3ACE&style=for-the-badge" 
+            src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=for-the-badge" 
             alt="back to top" 
         />
     </a>
