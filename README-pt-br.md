@@ -3,13 +3,12 @@
     src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"
 />
 
-
 # 💻 Lucas Freitas 💻
 
 <div align="left">
     <a href="https://git.io/typing-svg">
         <img 
-            src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F7F7F7&background=FFFFFF00&left=true&width=435&lines=Hello+World!;Back-End+in+Development!" 
+            src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F7F7F7&background=FFFFFF00&left=true&width=435&lines=Hello+World!;Back-End+em+Desenvolvimento!" 
             alt="Typing SVG" 
         />
     </a>
@@ -366,7 +365,7 @@
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img 
-            src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Thank+you+for+your+visit!++" 
+            src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Obrigador+pela+sua+visita!++" 
             alt="Typing SVG" 
         />
     </a>

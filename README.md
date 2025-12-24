@@ -3,7 +3,6 @@
     src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"
 />
 
-
 # 💻 Lucas Freitas 💻
 
 <div align="left">
@@ -58,7 +57,18 @@
 
 ## 🎶 Now playing
 
-[![Spotify Profile](https://spotify-github-profile.kittinanx.com/api/view?uid=6atv4j3yoivc7yidi4tf3e00h&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
+<table align="center">
+    <tr>
+        <td width="500" align="center">
+            <a href="https://github.com/kittinan/spotify-github-profile">
+                <img
+                    src="https://spotify-github-profile.kittinanx.com/api/view?uid=6atv4j3yoivc7yidi4tf3e00h&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark"
+                    alt="Spotify Now Playing"
+                />
+            </a>
+        </td>
+    </tr>
+</table>
 
 ## 🎧 My Favorites Albums
 
@@ -317,7 +327,7 @@
 
 ---
 
-# 📊 Status GitHub
+# 📊 Stats GitHub
 
 <div>
     <img 
