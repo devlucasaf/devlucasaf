@@ -327,7 +327,7 @@
 
 ---
 
-# 📊 Stats GitHub
+# 📊 Statistics GitHub
 
 <div>
     <img 

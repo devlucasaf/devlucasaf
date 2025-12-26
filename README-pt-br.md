@@ -327,7 +327,7 @@
 
 ---
 
-# 📊 Status GitHub
+# 📊 Estatísticas GitHub
 
 <div>
     <img 
