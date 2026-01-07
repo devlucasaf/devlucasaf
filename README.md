@@ -56,63 +56,17 @@
 * 💼 Here I share my projects, experiences, and lessons learned.
 ```
 
-## 🎶 Now playing
+## 🎶 Now Playing
 
 [![Spotify Profile](https://spotify-github-profile.kittinanx.com/api/view?uid=6atv4j3yoivc7yidi4tf3e00h&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
 
-## 🎧 My Favorites Albums
+## 💼 My Projects
 
-<p align="center">
-    <a href="https://www.last.fm/pt/music/Green+Day/American+Idiot">
-        <img 
-            src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" 
-            style="height:100px" 
-            title="Green Day - American Idiot"
-        />
-    </a>
-    <a href="https://www.last.fm/pt/music/Avenged+Sevenfold/Nightmare">
-        <img 
-            src="https://i.scdn.co/image/ab67616d0000b273c34064a3c5e4a25892a091f3" 
-            style="height:100px" 
-            title="Avenged Sevenfold - Nightmare"
-        />
-    </a>
-    <a href="https://www.last.fm/music/Foo+Fighters/There+Is+Nothing+Left+to+Lose">
-        <img 
-            src="https://i.scdn.co/image/ab67616d0000b273b01a979fdf8677aa8da7f280" 
-            style="height:100px" 
-            title="Foo Fighters - There Is Nothing Left to Lose"
-        />
-    </a>
-    <a href="https://www.last.fm/music/Pink+Floyd/The+Dark+Side+of+the+Moon">
-        <img 
-            src="https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6" 
-            style="height:100px" 
-            title="Pink Floyd - The Dark Side of the Moon"
-        />
-    </a>
-    <a href="https://www.last.fm/music/Link+Park/Hybrid+Theory">
-        <img 
-            src="https://i.scdn.co/image/ab67616d0000b2736741ca6e9ba6fdc166037321" 
-            style="height:100px" 
-            title="Linkin Park - Hybrid Theory"
-        />
-    </a>
-    <a href="https://www.last.fm/music/Led+Zeppelin/Led+Zeppelin+IV">
-        <img 
-            src="https://i.scdn.co/image/ab67616d0000b2734509204d0860cc0cc67e83dc" 
-            style="height:100px" 
-            title="Led Zeppelin - Led Zeppelin IV"
-        />
-    </a>
-    <a href="https://www.last.fm/pt/music/Green+Day/Dookie">
-        <img 
-            src="https://i.scdn.co/image/ab67616d0000b273db89b08034de626ebee6823d" 
-            style="height:100px" 
-            title="Green Day - Dookie"
-        />
-    </a>
-</p>
+| Projects      | Description | Link |
+|----------------|-----------| ----------|
+| **Java Repository** | Repository for my Java studies | [Repository](https://github.com/devlucasaf/Java) |
+| **ScoreBoard** | Java code that features a scoreboard system | [Repository](https://github.com/devlucasaf/ScoreBoard) |
+| **Portfolio** | My portfolio | [Repository](https://github.com/devlucasaf/Portifolio) |
 
 ---
 
@@ -241,6 +195,7 @@
         tittle="GitHub"
         height="40" 
         style="padding-right: 10px;" 
+        href="https://skillicons.dev"
         src="https://skillicons.dev/icons?i=github"
     />
     <img
@@ -249,6 +204,7 @@
         tittle="Git"
         height="40"
         style="padding-right: 10px;"
+        href="https://skillicons.dev"
         src="https://skillicons.dev/icons?i=git"
     />
     <img
@@ -257,6 +213,7 @@
         tittle="VsCode"
         height="40" 
         style="padding-right: 10px;" 
+        href="https://skillicons.dev"
         src="https://skillicons.dev/icons?i=vscode"
     />
     <img
@@ -265,6 +222,7 @@
         tittle="Visual Studio"
         height="40" 
         style="padding-right: 10px;" 
+        href="https://skillicons.dev"
         src="https://skillicons.dev/icons?i=visualstudio"
     />
     <img
@@ -273,6 +231,7 @@
         tittle="PostgreSQL"
         height="40"
         style="padding-right: 10px;"
+        href="https://skillicons.dev"
         src="https://skillicons.dev/icons?i=postgresql"
     />
     <img
