@@ -3,13 +3,12 @@
     src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"
 />
 
-
 # 💻 Lucas Freitas 💻
 
 <div align="left">
     <a href="https://git.io/typing-svg">
         <img 
-            src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F7F7F7&background=FFFFFF00&left=true&width=435&lines=Hello+World!;Back-End+in+Development!" 
+            src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F7F7F7&background=FFFFFF00&left=true&width=435&lines=Hello+World!;Back-End+em+Desenvolvimento!" 
             alt="Typing SVG" 
         />
     </a>
@@ -73,11 +72,79 @@
 
 ## 💼 Meus Projetos
 
+<<<<<<< HEAD
 | Projetos      | Descrição | Link |
 |----------------|-----------| ----------|
 | **Repositório Java** | Repositório para os meu estudos em Java | [Repositório](https://github.com/devlucasaf/Java) |
 | **Placar** | Código em Java que apresenta um sistema de placar | [Repositório](https://github.com/devlucasaf/ScoreBoard) |
 | **Portifólio** | Meu portifólio | [Repositório](https://github.com/devlucasaf/Portifolio) |
+=======
+<p align="center">
+    <a href="https://www.last.fm/pt/music/Green+Day/American+Idiot">
+        <img 
+            src="https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b" 
+            style="height:100px" 
+            title="Green Day - American Idiot"
+        />
+    </a>
+    <a href="https://www.last.fm/pt/music/Avenged+Sevenfold/Nightmare">
+        <img 
+            src="https://i.scdn.co/image/ab67616d0000b273c34064a3c5e4a25892a091f3" 
+            style="height:100px" 
+            title="Avenged Sevenfold - Nightmare"
+        />
+    </a>
+    <a href="https://www.last.fm/music/Foo+Fighters/There+Is+Nothing+Left+to+Lose">
+        <img 
+            src="https://i.scdn.co/image/ab67616d0000b273b01a979fdf8677aa8da7f280" 
+            style="height:100px" 
+            title="Foo Fighters - There Is Nothing Left to Lose"
+        />
+    </a>
+    <a href="https://www.last.fm/music/Pink+Floyd/The+Dark+Side+of+the+Moon">
+        <img 
+            src="https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6" 
+            style="height:100px" 
+            title="Pink Floyd - The Dark Side of the Moon"
+        />
+    </a>
+    <a href="https://www.last.fm/music/Link+Park/Hybrid+Theory">
+        <img 
+            src="https://i.scdn.co/image/ab67616d0000b2736741ca6e9ba6fdc166037321" 
+            style="height:100px" 
+            title="Linkin Park - Hybrid Theory"
+        />
+    </a>
+    <a href="https://www.last.fm/music/Led+Zeppelin/Led+Zeppelin+IV">
+        <img 
+            src="https://i.scdn.co/image/ab67616d0000b2734509204d0860cc0cc67e83dc" 
+            style="height:100px" 
+            title="Led Zeppelin - Led Zeppelin IV"
+        />
+    </a>
+    <a href="https://www.last.fm/pt/music/Metallica/Ride+The+Lightning">
+        <img 
+            src="https://i.scdn.co/image/ab67616d0000b273b273e0a4432dbcff6df50e05" 
+            style="height:100px" 
+            title="Metallica - Ride The Lightning"
+        />
+    </a>
+    <a href="https://www.last.fm/pt/music/KISS/Destroyer">
+        <img 
+            src="https://i.scdn.co/image/ab67616d0000b2739309dd399ed75be936b8c1b6" 
+            style="height:100px" 
+            title="KISS - Destroyer"
+        />
+    </a>
+    <a href="https://www.last.fm/pt/music/Gojira/From+Mars+to+Sirius">
+        <img 
+            src="https://i.scdn.co/image/ab67616d0000b2730d7d4ee20c06739df97beb4c" 
+            style="height:100px" 
+            title="Gojira - From Mars to Sirius"
+        />
+    </a>
+</p>
+>>>>>>> 28cdd8fdbbdd5f21b13607fe5b8b9f4df88dd5f5
 
 ---
 
@@ -157,6 +224,15 @@
         height="40" 
         style="padding-right: 10px;" 
         src="https://skillicons.dev/icons?i=django"
+    />
+    <img
+        align="center"
+        alt="DBSQLite"
+        tittle="DBSQLite"
+        height="40"
+        style="padding-right: 10px"
+        href="https://skillicons.dev"
+        src="https://skillicons.dev/icons?i=sqlite"
     />
     <img
         align="center" 
@@ -242,6 +318,14 @@
     />
     <img
         align="center"
+        alt="jetbrains"
+        tittle="JetBrains"
+        height="40" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"
+    />
+    <img
+        align="center"
         alt="intellij"
         tittle="Intellij IDEA"
         height="40" 
@@ -268,7 +352,7 @@
 
 ---
 
-# 📊 Status GitHub
+# 📊 Estatísticas GitHub
 
 <div>
     <img 
@@ -306,7 +390,7 @@
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img 
-            src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Thank+you+for+your+visit!++" 
+            src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Obrigador+pela+sua+visita!++" 
             alt="Typing SVG" 
         />
     </a>
