@@ -77,6 +77,7 @@
 | **Repositório Java** | Repositório para os meu estudos em Java | [Repositório](https://github.com/devlucasaf/Java) |
 | **Placar** | Código em Java que apresenta um sistema de placar | [Repositório](https://github.com/devlucasaf/ScoreBoard) |
 | **Portifólio** | Meu portifólio | [Repositório](https://github.com/devlucasaf/Portifolio) |
+| **Sistema de Condomínio - SGC** | Sistema de Gestão de Condomínio (Fictício) (Em Desenvolvimento) | [Repositório](https://github.com/devlucasaf/SGC-Sistema-de-Gestao-De-Condominio) |
 
 ---
 

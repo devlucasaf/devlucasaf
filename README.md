@@ -77,6 +77,7 @@
 | **Java Repository** | Repository for my Java studies | [Repository](https://github.com/devlucasaf/Java) |
 | **ScoreBoard** | Java code that features a scoreboard system | [Repository](https://github.com/devlucasaf/ScoreBoard) |
 | **Portfolio** | My portfolio | [Repository](https://github.com/devlucasaf/Portifolio) |
+| **Condominium System - CMS** | Condo Management System (Fictional) (Under Development) | [Repository](https://github.com/devlucasaf/SGC-Sistema-de-Gestao-De-Condominio) |
 
 ---
 
