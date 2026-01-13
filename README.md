@@ -152,20 +152,11 @@
     />
     <img
         align="center" 
-        alt="Django" 
-        title="Django"
+        alt="Spring" 
+        title="Spring"
         height="40" 
         style="padding-right: 10px;" 
-        src="https://skillicons.dev/icons?i=django"
-    />
-    <img
-        align="center"
-        alt="DBSQLite"
-        tittle="DBSQLite"
-        height="40"
-        style="padding-right: 10px"
-        href="https://skillicons.dev"
-        src="https://skillicons.dev/icons?i=sqlite"
+        src="https://skillicons.dev/icons?i=spring"
     />
     <img
         align="center" 
@@ -253,14 +244,6 @@
         style="padding-right: 10px;"
         href="https://skillicons.dev"
         src="https://skillicons.dev/icons?i=postgresql"
-    />
-    <img
-        align="center"
-        alt="jetbrains"
-        tittle="JetBrains"
-        height="40" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg"
     />
     <img
         align="center"
