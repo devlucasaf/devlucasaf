@@ -51,7 +51,7 @@
 * 🌃 Brasília - Brasil.
 * 💭 Tenho interesse em desenvolvimento web e pretendo seguir carreira em CiberSegurança.
 * ⚽ Torcedor apaixonado do Fluminense (#foraEveStum).
-* 🎧 Sou apaixonado por música e rock! Minha banda favorita é Green Day..
+* 🎧 Sou apaixonado por música e rock! Minha banda favorita é Green Day.
 * 💼 Aqui compartilho meus projetos, experiências e aprendizados.
 ```
 
@@ -75,7 +75,7 @@
 | Projetos      | Descrição | Link |
 |----------------|-----------| ----------|
 | **Repositório Java** | Repositório para os meu estudos em Java | [Repositório](https://github.com/devlucasaf/Java) |
-| **Placar** | Código em Java que apresenta um sistema de placar | [Repositório](https://github.com/devlucasaf/ScoreBoard) |
+| **Drrr Burger** | Menu Digital | [Repositório](https://github.com/devlucasaf/Cardapio-Hamburgueria) |
 | **Portifólio** | Meu portifólio | [Repositório](https://github.com/devlucasaf/Portifolio) |
 | **Sistema de Condomínio - SGC** | Sistema de Gestão de Condomínio (Fictício) (Em Desenvolvimento) | [Repositório](https://github.com/devlucasaf/SGC-Sistema-de-Gestao-De-Condominio) |
 
