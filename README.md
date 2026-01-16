@@ -288,14 +288,14 @@
             <img 
                 height="400px"
                 style="width: 490px;"
-                src="https://github-readme-stats-seven-omega-72.vercel.app/api/top-langs/?username=devlucasaf&langs_count=8&theme=transparent&custom_title=Tecnologias&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true"
+                src="https://github-readme-stats-seven-omega-72.vercel.app/api/top-langs/?username=devlucasaf&langs_count=8&theme=transparent&custom_title=Technologies&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true"
             />
         </td>
         <td align="right">
             <img 
                 height="210px"
                 style="width: 490px;"
-                src="https://github-readme-stats-seven-omega-72.vercel.app/api?username=devlucasaf&show_icons=true&custom_title=Lucas%20Github%20Status&theme=transparent&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true"
+                src="https://github-readme-stats-seven-omega-72.vercel.app/api?username=devlucasaf&show_icons=true&custom_title=Lucas'%20Github%20Status&theme=transparent&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true"
             />
             <br>
             <a href="https://git.io/streak-stats">
