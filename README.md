@@ -75,7 +75,7 @@
 | Projects      | Description | Link |
 |----------------|-----------| ----------|
 | **Java Repository** | Repository for my Java studies | [Repository](https://github.com/devlucasaf/Java) |
-| **Drrr Burger** | Digital Menu | [Repository](https://github.com/devlucasaf/Cardapio-Hamburgueria) |
+| **Durrr Burger** | Digital Menu | [Repository](https://github.com/devlucasaf/Cardapio-Hamburgueria) |
 | **Portfolio** | My portfolio | [Repository](https://github.com/devlucasaf/Portifolio) |
 | **Condominium System - CMS** | Condo Management System (Fictional) (Under Development) | [Repository](https://github.com/devlucasaf/SGC-Sistema-de-Gestao-De-Condominio) |
 
