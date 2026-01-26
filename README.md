@@ -91,11 +91,11 @@
             alt="instagram logo"
         />
     </a>
-    <a href="https://discord.com/users/1043680764140736612" target="_blank">
+    <a href="https://gitlab.com/devlucasaf" target="_blank">
         <img 
-            src="https://img.shields.io/badge/discord-1a1b27?style=for-the-badge&logo=discord&logoColor=9644CD" 
+            src="https://img.shields.io/badge/gitlab-1a1b27?style=for-the-badge&logo=gitlab&logoColor=9644CD" 
             style="height:40px" 
-            alt="discord logo" 
+            alt="gitlab logo" 
         />
     </a>
     <a href="https://www.linkedin.com/in/lucasfr3itas/" target="_blank">
@@ -160,6 +160,14 @@
     />
     <img
         align="center" 
+        alt="django" 
+        title="django"
+        height="40" 
+        style="padding-right: 10px;" 
+        src="https://skillicons.dev/icons?i=django"
+    />
+    <img
+        align="center" 
         alt="SQL" 
         title="SQL"
         height="40" 
@@ -208,6 +216,15 @@
         style="padding-right: 10px;" 
         href="https://skillicons.dev"
         src="https://skillicons.dev/icons?i=github"
+    /> 
+    <img
+        align="center"
+        alt="gitlab"
+        tittle="GitLab"
+        height="40" 
+        style="padding-right: 10px;" 
+        href="https://skillicons.dev"
+        src="https://skillicons.dev/icons?i=gitlab"
     />
     <img
         align="center"

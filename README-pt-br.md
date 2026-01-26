@@ -91,9 +91,9 @@
             alt="Instagram"
         />
     </a>
-    <a href="https://discord.com/users/1043680764140736612" target="_blank">
+    <a href="https://gitlab.com" target="_blank">
         <img 
-            src="https://img.shields.io/badge/discord-1a1b27?style=for-the-badge&logo=discord&logoColor=9644CD" 
+            src="https://img.shields.io/badge/gitlab-1a1b27?style=for-the-badge&logo=gitlab&logoColor=9644CD" 
             style="height:40px" 
             alt="Discord" 
         />
@@ -157,6 +157,14 @@
         height="40" 
         style="padding-right: 10px;" 
         src="https://skillicons.dev/icons?i=spring"
+    />
+    <img
+        align="center" 
+        alt="django" 
+        title="django"
+        height="40" 
+        style="padding-right: 10px;" 
+        src="https://skillicons.dev/icons?i=django"
     />
     <img
         align="center" 
