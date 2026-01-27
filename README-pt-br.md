@@ -74,7 +74,7 @@
 
 | Projetos      | Descrição | Link |
 |----------------|-----------| ----------|
-| **Repositório Java** | Repositório para os meu estudos em Java | [Repositório](https://github.com/devlucasaf/Java) |
+| **Dream Team** | Site para escalar e convocar seu time de futebol ou seleções | [Repositório](https://github.com/devlucasaf/Formacao-Futebol) |
 | **Durrr Burger** | Menu Digital | [Repositório](https://github.com/devlucasaf/Cardapio-Hamburgueria) |
 | **Portifólio** | Meu portifólio | [Repositório](https://github.com/devlucasaf/Portifolio) |
 | **Sistema de Condomínio - SGC** | Sistema de Gestão de Condomínio (Fictício) (Em Desenvolvimento) | [Repositório](https://github.com/devlucasaf/SGC-Sistema-de-Gestao-De-Condominio) |
@@ -91,9 +91,9 @@
             alt="Instagram"
         />
     </a>
-    <a href="https://gitlab.com" target="_blank">
+    <a href="https://discord.com/users/1043680764140736612" target="_blank">
         <img 
-            src="https://img.shields.io/badge/gitlab-1a1b27?style=for-the-badge&logo=gitlab&logoColor=9644CD" 
+            src="https://img.shields.io/badge/discord-1a1b27?style=for-the-badge&logo=discord&logoColor=9644CD" 
             style="height:40px" 
             alt="Discord" 
         />
@@ -117,6 +117,13 @@
             src="https://img.shields.io/badge/gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=9644CD" 
             style="height:40px" 
             alt="Gmail"
+        />
+    </a>
+    <a href="https://gitlab.com/devlucasaf" target="_blank">
+        <img 
+            src="https://img.shields.io/badge/gitlab-1a1b27?style=for-the-badge&logo=gitlab&logoColor=9644CD" 
+            style="height:40px" 
+            alt="GitLab" 
         />
     </a>
 </div>
@@ -214,7 +221,17 @@
         tittle="GitHub"
         height="40" 
         style="padding-right: 10px;" 
+        href="https://skillicons.dev"
         src="https://skillicons.dev/icons?i=github"
+    /> 
+    <img
+        align="center"
+        alt="gitlab"
+        tittle="GitLab"
+        height="40" 
+        style="padding-right: 10px;" 
+        href="https://skillicons.dev"
+        src="https://skillicons.dev/icons?i=gitlab"
     />
     <img
         align="center"
@@ -222,6 +239,7 @@
         tittle="Git"
         height="40"
         style="padding-right: 10px;"
+        href="https://skillicons.dev"
         src="https://skillicons.dev/icons?i=git"
     />
     <img
@@ -230,6 +248,7 @@
         tittle="VsCode"
         height="40" 
         style="padding-right: 10px;" 
+        href="https://skillicons.dev"
         src="https://skillicons.dev/icons?i=vscode"
     />
     <img
@@ -238,6 +257,7 @@
         tittle="Visual Studio"
         height="40" 
         style="padding-right: 10px;" 
+        href="https://skillicons.dev"
         src="https://skillicons.dev/icons?i=visualstudio"
     />
     <img
@@ -246,6 +266,7 @@
         tittle="PostgreSQL"
         height="40"
         style="padding-right: 10px;"
+        href="https://skillicons.dev"
         src="https://skillicons.dev/icons?i=postgresql"
     />
     <img

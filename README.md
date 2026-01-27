@@ -74,7 +74,7 @@
 
 | Projects      | Description | Link |
 |----------------|-----------| ----------|
-| **Java Repository** | Repository for my Java studies | [Repository](https://github.com/devlucasaf/Java) |
+| **Dream Team** | A website to build and draft your football team or national squads. | [Repository](https://github.com/devlucasaf/Formacao-Futebol) |
 | **Durrr Burger** | Digital Menu | [Repository](https://github.com/devlucasaf/Cardapio-Hamburgueria) |
 | **Portfolio** | My portfolio | [Repository](https://github.com/devlucasaf/Portifolio) |
 | **Condominium System - CMS** | Condo Management System (Fictional) (Under Development) | [Repository](https://github.com/devlucasaf/SGC-Sistema-de-Gestao-De-Condominio) |
@@ -88,35 +88,42 @@
         <img 
             src="https://img.shields.io/badge/instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=9644CD" 
             style="height:40px" 
-            alt="instagram logo"
+            alt="Instagram"
         />
     </a>
-    <a href="https://gitlab.com/devlucasaf" target="_blank">
+    <a href="https://discord.com/users/1043680764140736612" target="_blank">
         <img 
-            src="https://img.shields.io/badge/gitlab-1a1b27?style=for-the-badge&logo=gitlab&logoColor=9644CD" 
+            src="https://img.shields.io/badge/discord-1a1b27?style=for-the-badge&logo=discord&logoColor=9644CD" 
             style="height:40px" 
-            alt="gitlab logo" 
+            alt="Discord" 
         />
     </a>
     <a href="https://www.linkedin.com/in/lucasfr3itas/" target="_blank">
         <img
             src="https://img.shields.io/badge/linkedin-1a1b27?style=for-the-badge&logo=linkedin&logoColor=9644CD" 
             style="height:40px" 
-            alt="linkedin logo"
+            alt="LinkedIn"
         />
     </a>
     <a href="https://open.spotify.com/user/6atv4j3yoivc7yidi4tf3e00h?si=a7882472f98742e8" target="_blank">
         <img 
             src="https://img.shields.io/badge/spotify-1a1b27?style=for-the-badge&logo=spotify&logoColor=9644CD"
             style="height:40px" 
-            alt="spotify logo" 
+            alt="Spotify" 
         />
     </a>
     <a href="mailto:freitas.lucasaf@gmail.com" target="_blank">
         <img
             src="https://img.shields.io/badge/gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=9644CD" 
             style="height:40px" 
-            alt="gmail logo"
+            alt="Gmail"
+        />
+    </a>
+    <a href="https://gitlab.com/devlucasaf" target="_blank">
+        <img 
+            src="https://img.shields.io/badge/gitlab-1a1b27?style=for-the-badge&logo=gitlab&logoColor=9644CD" 
+            style="height:40px" 
+            alt="GitLab" 
         />
     </a>
 </div>
