@@ -74,7 +74,7 @@
 
 | Projetos      | Descrição | Link |
 |----------------|-----------| ----------|
-| **Dream Team** | Site para escalar e convocar seu time de futebol ou seleções | [Repositório](https://github.com/devlucasaf/Formacao-Futebol) |
+| **Football Games 11** | Site para escalar e convocar seu time de futebol ou seleções | [Repositório](https://github.com/devlucasaf/Formacao-Futebol) |
 | **Durrr Burger** | Menu Digital | [Repositório](https://github.com/devlucasaf/Cardapio-Hamburgueria) |
 | **Portifólio** | Meu portifólio | [Repositório](https://github.com/devlucasaf/Portifolio) |
 | **Sistema de Condomínio - SGC** | Sistema de Gestão de Condomínio (Fictício) (Em Desenvolvimento) | [Repositório](https://github.com/devlucasaf/SGC-Sistema-de-Gestao-De-Condominio) |

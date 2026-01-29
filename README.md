@@ -74,7 +74,7 @@
 
 | Projects      | Description | Link |
 |----------------|-----------| ----------|
-| **Dream Team** | A website to build and draft your football team or national squads. | [Repository](https://github.com/devlucasaf/Formacao-Futebol) |
+| **Football Games 11** | A website to build and draft your football team or national squads. | [Repository](https://github.com/devlucasaf/Formacao-Futebol) |
 | **Durrr Burger** | Digital Menu | [Repository](https://github.com/devlucasaf/Cardapio-Hamburgueria) |
 | **Portfolio** | My portfolio | [Repository](https://github.com/devlucasaf/Portifolio) |
 | **Condominium System - CMS** | Condo Management System (Fictional) (Under Development) | [Repository](https://github.com/devlucasaf/SGC-Sistema-de-Gestao-De-Condominio) |
