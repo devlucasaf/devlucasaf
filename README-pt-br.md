@@ -163,15 +163,15 @@
         title="Spring"
         height="40" 
         style="padding-right: 10px;" 
-        src="https://skillicons.dev/icons?i=spring"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
     />
     <img
         align="center" 
-        alt="django" 
-        title="django"
+        alt="react" 
+        title="React"
         height="40" 
         style="padding-right: 10px;" 
-        src="https://skillicons.dev/icons?i=django"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
     />
     <img
         align="center" 
