@@ -312,7 +312,7 @@
             <img 
                 height="400px"
                 style="width: 490px;"
-                src="https://github-readme-stats-seven-omega-72.vercel.app/api/top-langs/?username=devlucasaf&langs_count=8&theme=transparent&custom_title=Technologies&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true"
+                src="https://github-readme-stats.vercel.app/api/top-langs/top-langs/?username=devlucasaf&langs_count=8&theme=transparent&custom_title=Technologies&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true"
             />
         </td>
         <td align="right">
@@ -334,6 +334,21 @@
 </table>
 
 <br>
+
+<picture>
+    <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://raw.githubusercontent.com/devlucasaf/devlucasaf/output/pacman-contribution-graph-dark.svg"
+    />
+    <source 
+        media="(prefers-color-scheme: light)" 
+        srcset="https://raw.githubusercontent.com/devlucasaf/devlucasaf/output/pacman-contribution-graph.svg"
+    />
+    <img 
+        alt="pacman contribution graph" 
+        src="https://raw.githubusercontent.com/devlucasaf/devlucasaf/output/pacman-contribution-graph.svg"
+    />
+</picture>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
