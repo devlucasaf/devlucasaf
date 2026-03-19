@@ -312,7 +312,7 @@
             <img 
                 height="400px"
                 style="width: 490px;"
-                src="https://github-readme-stats.vercel.app/api/top-langs/top-langs/?username=devlucasaf&langs_count=8&theme=transparent&custom_title=Technologies&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true"
+                src="https://github-readme-stats-seven-omega-72.vercel.app/api/top-langs/?username=devlucasaf&langs_count=8&theme=transparent&custom_title=Tecnologias&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true"
             />
         </td>
         <td align="right">
