@@ -175,6 +175,14 @@
     />
     <img
         align="center" 
+        alt="vite" 
+        title="Vite"
+        height="40" 
+        style="padding-right: 10px;" 
+        src="https://skillicons.dev/icons?i=vite"
+    />
+    <img
+        align="center" 
         alt="SQL" 
         title="SQL"
         height="40" 
