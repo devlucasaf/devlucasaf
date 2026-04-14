@@ -44,42 +44,12 @@
 ---
 
 # 💡 Sobre Mim
-```
-* 📚 Sou estudante de Ciência da Computação, atualmente no meu 4º semestre e prestes a iniciar o 5º semestre..
-* 👩🏽‍💻 Estagiário da Caesb.
-* 🔤 Meu nível de inglês é intermediário, mas continuo estudando na Casa Thomas Jefferson..
-* 🌃 Brasília - Brasil.
-* 💭 Tenho interesse em desenvolvimento web e pretendo seguir carreira em CiberSegurança.
-* ⚽ Torcedor apaixonado do Fluminense (#foraEveStum).
-* 🎧 Sou apaixonado por música e rock! Minha banda favorita é Green Day.
-* 💼 Aqui compartilho meus projetos, experiências e aprendizados.
-```
 
-## 🎧 Tocando Agora
+Olá! Eu sou o **Lucas**, estudante de Ciência da Computação em **Brasília, Brasil**, atualmente no 5º semestre e apaixonado por construir coisas para a web. Trabalho como estagiário na **Caesb**, onde ganho experiência prática com sistemas reais e fluxos de trabalho de desenvolvimento.
 
-<table align="center">
-    <tr>
-        <td width="500" align="center">
-            <a href="https://github.com/kittinan/spotify-github-profile">
-                <img
-                    src="https://spotify-github-profile.kittinanx.com/api/view?uid=6atv4j3yoivc7yidi4tf3e00h&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark"
-                    alt="Spotify Now Playing"
-                />
-            </a>
-        </td>
-    </tr>
-</table>
+Meu objetivo é me tornar um **Desenvolvedor Back-End** e, futuramente, fazer a transição para **Cibersegurança** — uma área que me fascina profundamente. Acredito em escrever códigos limpos, bem estruturados e em aprender novas tecnologias continuamente.
 
-## 💼 Meus Projetos
-
-| Projetos      | Descrição | Link |
-|----------------|-----------| ----------|
-| **Football Games 11** | Site para escalar e convocar seu time de futebol ou seleções | [Repositório](https://github.com/devlucasaf/Formacao-Futebol) |
-| **Durrr Burger** | Menu Digital | [Repositório](https://github.com/devlucasaf/Cardapio-Hamburgueria) |
-| **Portifólio** | Meu portifólio | [Repositório](https://github.com/devlucasaf/Portifolio) |
-| **Sistema de Condomínio - SGC** | Sistema de Gestão de Condomínio (Fictício) (Em Desenvolvimento) | [Repositório](https://github.com/devlucasaf/SGC-Sistema-de-Gestao-De-Condominio) |
-
----
+Quando não estou programando, você me encontrará ouvindo **Green Day 🎸**, torcendo pelo **Fluminense ⚽** ou estudando inglês na **Casa Thomas Jefferson**.
 
 # 👥 Contatos
 
@@ -128,67 +98,37 @@
     </a>
 </div>
 
+## 🎧 Tocando Agora
+
+<table align="center">
+    <tr>
+        <td width="500" align="center">
+            <a href="https://github.com/kittinan/spotify-github-profile">
+                <img
+                    src="https://spotify-github-profile.kittinanx.com/api/view?uid=6atv4j3yoivc7yidi4tf3e00h&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark"
+                    alt="Spotify Now Playing"
+                />
+            </a>
+        </td>
+    </tr>
+</table>
+
+## 💼 Meus Projetos
+
+| Projeto | Descrição | Stack | Link |
+|---------|-------------|-------|------|
+| **Football Games 11** | Monte e escale seu time de futebol ou seleções nacionais | `HTML` `CSS` `JS` | [Repositório](https://github.com/devlucasaf/Formacao-Futebol) |
+| **Durrr Burger** | Cardápio digital para uma hamburgueria | `HTML` `CSS` `JS` | [Repositório](https://github.com/devlucasaf/Cardapio-Hamburgueria) |
+| **Portfolio** | Meu portifólio pessoal | `HTML` `CSS` `JS` | [Repositório](https://github.com/devlucasaf/Portifolio) |
+| **Condominium System (CMS)** | Sistema de Gestão de Condomínio | `Java` `Spring` `React` | [Repositório](https://github.com/devlucasaf/SGC-Sistema-de-Gestao-De-Condominio) |
+
 ---
 
-# 🖥️ Linguagens
+## 🛠️ Habilidades
+
+### Linguagens
 
 <div align="left">
-    <img 
-        align="center"
-        alt="JavaScript"
-        tittle="JavaScript"
-        height="40" 
-        style="padding-right: 10px;"
-        src="https://skillicons.dev/icons?i=javascript" 
-    />
-    <img
-        align="center" 
-        alt="HTML" 
-        title="HTML"
-        height="40" 
-        style="padding-right: 10px;" 
-        src="https://skillicons.dev/icons?i=html"
-    />
-    <img
-        align="center" 
-        alt="CSS" 
-        title="CSS"
-        height="40" 
-        style="padding-right: 10px;" 
-        src="https://skillicons.dev/icons?i=css"
-    />
-    <img
-        align="center" 
-        alt="Spring" 
-        title="Spring"
-        height="40" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
-    />
-    <img
-        align="center" 
-        alt="react" 
-        title="React"
-        height="40" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-    />
-    <img
-        align="center" 
-        alt="vite" 
-        title="Vite"
-        height="40" 
-        style="padding-right: 10px;" 
-        src="https://skillicons.dev/icons?i=vite"
-    />
-    <img
-        align="center" 
-        alt="SQL" 
-        title="SQL"
-        height="40" 
-        style="padding-right: 10px;" 
-        src="https://skillicons.dev/icons?i=mysql"
-    />
     <img
         align="center"
         alt="Java"
@@ -216,11 +156,75 @@
         href="https://skillicons.dev"
         src="https://skillicons.dev/icons?i=ruby"
     />
+    <img 
+        align="center"
+        alt="JavaScript"
+        tittle="JavaScript"
+        height="40" 
+        style="padding-right: 10px;"
+        src="https://skillicons.dev/icons?i=javascript" 
+    />
+    <img
+        align="center" 
+        alt="HTML" 
+        title="HTML"
+        height="40" 
+        style="padding-right: 10px;" 
+        src="https://skillicons.dev/icons?i=html"
+    />
+    <img
+        align="center" 
+        alt="CSS" 
+        title="CSS"
+        height="40" 
+        style="padding-right: 10px;" 
+        src="https://skillicons.dev/icons?i=css"
+    />
 </div>
 
----
+### Frameworks & Bibliotecas
 
-# 🛠️ Software
+<div align="left">
+    <img
+        align="center" 
+        alt="Spring" 
+        title="Spring"
+        height="40" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+    />
+    <img
+        align="center" 
+        alt="react" 
+        title="React"
+        height="40" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    />
+    <img
+        align="center" 
+        alt="vite" 
+        title="Vite"
+        height="40" 
+        style="padding-right: 10px;" 
+        src="https://skillicons.dev/icons?i=vite"
+    />
+</div>
+
+### Banco de Dados
+
+<div align="left">
+    <img
+        align="center" 
+        alt="SQL" 
+        title="SQL"
+        height="40" 
+        style="padding-right: 10px;" 
+        src="https://skillicons.dev/icons?i=mysql"
+    />
+</div>
+
+### Ferramentas & IDEs 
 
 <div align="left"> 
     <img
@@ -361,7 +365,7 @@
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img 
-            src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Obrigador+pela+sua+visita!++" 
+            src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Obrigado+pela+sua+visita!+%F0%9F%91%BE;Pode+me+chamar+quando+quiser+%F0%9F%92%AC"
             alt="Typing SVG" 
         />
     </a>
