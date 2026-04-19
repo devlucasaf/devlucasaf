@@ -158,6 +158,15 @@ When I'm not coding, you'll find me listening to **Green Day** 🎸, cheering fo
         src="https://skillicons.dev/icons?i=ruby"
     />
     <img 
+        align="center" 
+        alt="C#" 
+        title="C#"
+        height="40" 
+        style="padding-right: 10px;" 
+        href="https://skillicons.dev"
+        src="https://skillicons.dev/icons?i=cs"
+    />
+    <img 
         align="center"
         alt="JavaScript"
         tittle="JavaScript"
