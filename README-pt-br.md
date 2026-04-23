@@ -119,8 +119,9 @@ Quando não estou programando, você me encontrará ouvindo **Green Day 🎸**, 
 |---------|-------------|-------|------|
 | **Football Games 11** | Monte e escale seu time de futebol ou seleções nacionais | `HTML` `CSS` `JS` | [Repositório](https://github.com/devlucasaf/Formacao-Futebol) |
 | **Durrr Burger** | Cardápio digital para uma hamburgueria | `HTML` `CSS` `JS` | [Repositório](https://github.com/devlucasaf/Cardapio-Hamburgueria) |
-| **Portfolio** | Meu portifólio pessoal | `HTML` `CSS` `JS` | [Repositório](https://github.com/devlucasaf/Portifolio) |
-| **Condominium System (CMS)** | Sistema de Gestão de Condomínio | `Java` `Spring` `React` | [Repositório](https://github.com/devlucasaf/SGC-Sistema-de-Gestao-De-Condominio) |
+| **Portifólio** | Meu portifólio pessoal | `HTML` `CSS` `JS` | [Repositório](https://github.com/devlucasaf/Portifolio) |
+| **SGC - Sistema de Gestão de Condomínio** | Sistema de Gestão de Condomínio | `Java` `Spring` `React` | [Repositório](https://github.com/devlucasaf/SGC-Sistema-de-Gestao-De-Condominio) |
+| **Money Tracker Control** | Sistema de Gestão Financeira Pessoal | `Java` `Spring` `React` | [Repositório](https://github.com/devlucasaf/money-tracker-control) |
 
 ---
 
