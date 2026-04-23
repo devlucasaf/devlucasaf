@@ -157,6 +157,15 @@ Quando não estou programando, você me encontrará ouvindo **Green Day 🎸**, 
         src="https://skillicons.dev/icons?i=ruby"
     />
     <img 
+        align="center" 
+        alt="C#" 
+        title="C#"
+        height="40" 
+        style="padding-right: 10px;" 
+        href="https://skillicons.dev"
+        src="https://skillicons.dev/icons?i=cs"
+    />
+    <img 
         align="center"
         alt="JavaScript"
         tittle="JavaScript"
