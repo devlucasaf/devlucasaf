@@ -231,6 +231,14 @@ Quando não estou programando, você me encontrará ouvindo **Green Day 🎸**, 
         style="padding-right: 10px;" 
         src="https://skillicons.dev/icons?i=mysql"
     />
+    <img
+        align="center" 
+        alt="SqlServer" 
+        title="SqlServer"
+        height="40" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
+    />
 </div>
 
 ### Ferramentas & IDEs 
