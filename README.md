@@ -121,8 +121,8 @@ When I'm not coding, you'll find me listening to **Green Day** 🎸, cheering fo
 | **Football Games 11** | Build and draft your football team or national squads | `HTML` `CSS` `JS` | [Repository](https://github.com/devlucasaf/Formacao-Futebol) |
 | **Durrr Burger** | Digital menu for a burger restaurant | `HTML` `CSS` `JS` | [Repository](https://github.com/devlucasaf/Cardapio-Hamburgueria) |
 | **Portfolio** | My personal portfolio website | `HTML` `CSS` `JS` | [Repository](https://github.com/devlucasaf/Portifolio) |
-| **Condominium System (CMS)** | Condo Management System | `Java` `Spring` `React` | [Repository](https://github.com/devlucasaf/SGC-Sistema-de-Gestao-De-Condominio) |
-| **Money Tracker Control** | Personal Finance Management System | `Java` `Spring` `React` | [Repository](https://github.com/devlucasaf/money-tracker-control) |
+| **Condominium System (CMS)** | Condo Management System | `SqlServer` `Spring` `React` | [Repository](https://github.com/devlucasaf/SGC-Sistema-de-Gestao-De-Condominio) |
+| **Money Tracker Control** | Personal Finance Management System | `React` `Spring` `SqlServer` | [Repository](https://github.com/devlucasaf/money-tracker-control) |
 
 ---
 
