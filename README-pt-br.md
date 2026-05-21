@@ -205,6 +205,22 @@ Quando não estou programando, você me encontrará ouvindo **Green Day 🎸**, 
     />
     <img
         align="center" 
+        alt="DotNet" 
+        title="DotNet"
+        height="40" 
+        style="padding-right: 10px;" 
+        src="https://skillicons.dev/icons?i=dotnet"
+    />
+    <img
+        align="center" 
+        alt="Rails" 
+        title="Rails"
+        height="40" 
+        style="padding-right: 10px;" 
+        src="https://skillicons.dev/icons?i=rails"
+    />
+    <img
+        align="center" 
         alt="react" 
         title="React"
         height="40" 
@@ -322,6 +338,14 @@ Quando não estou programando, você me encontrará ouvindo **Green Day 🎸**, 
         height="40"
         style="padding-right: 10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubymine/rubymine-original.svg"
+    />
+    <img
+        align="center"
+        alt="Rider"
+        tittle="Rider"
+        height="40"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg"
     />
 </div>
 
