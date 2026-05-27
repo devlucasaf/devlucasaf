@@ -236,6 +236,21 @@ When I'm not coding, you'll find me listening to **Green Day** 🎸, cheering fo
         style="padding-right: 10px;" 
         src="https://skillicons.dev/icons?i=vite"
     />
+    <img
+        align="center" 
+        alt="NodeJS" 
+        title="NodeJS"
+        height="40" 
+        style="padding-right: 10px;" 
+        src="https://skillicons.dev/icons?i=nodejs"
+    />
+    <img
+        align="center" 
+        alt="NextJS" 
+        title="NextJS"
+        height="40" 
+        style="padding-right: 10px;" 
+        src="https://skillicons.dev/icons?i=next"
 </div>
 
 ### Databases

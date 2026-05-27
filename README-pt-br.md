@@ -235,6 +235,21 @@ Quando não estou programando, você me encontrará ouvindo **Green Day 🎸**, 
         style="padding-right: 10px;" 
         src="https://skillicons.dev/icons?i=vite"
     />
+    <img
+        align="center" 
+        alt="NodeJS" 
+        title="NodeJS"
+        height="40" 
+        style="padding-right: 10px;" 
+        src="https://skillicons.dev/icons?i=nodejs"
+    />
+    <img
+        align="center" 
+        alt="NextJS" 
+        title="NextJS"
+        height="40" 
+        style="padding-right: 10px;" 
+        src="https://skillicons.dev/icons?i=next"
 </div>
 
 ### Banco de Dados
