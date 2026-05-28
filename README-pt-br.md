@@ -296,6 +296,15 @@ Quando não estou programando, você me encontrará ouvindo **Green Day 🎸**, 
     />
     <img
         align="center"
+        alt="Subversion"
+        tittle="Subversion"
+        height="40" 
+        style="padding-right: 10px;" 
+        href="https://skillicons.dev"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/subversion/subversion-original.svg"
+    />
+    <img
+        align="center"
         alt="git"
         tittle="Git"
         height="40"
