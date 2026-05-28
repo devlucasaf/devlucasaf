@@ -121,7 +121,7 @@ Quando não estou programando, você me encontrará ouvindo **Green Day 🎸**, 
 | **LiveEvents-Ticker** | Sistema de Gestão de Vendas de Ingressos | `.Net` `React` `SqlServer` | [Repository](https://github.com/devlucasaf/LiveEvents-Ticket) |
 | **Portfólio** | Meu portifólio pessoal | `HTML` `CSS` `JS` | [Repositório](https://github.com/devlucasaf/Portifolio) |
 | **SGC - Sistema de Gestão de Condomínio** | Sistema de Gestão de Condomínio | `SqlServer` `Spring` `React` | [Repositório](https://github.com/devlucasaf/SGC-Sistema-de-Gestao-De-Condominio) |
-| **Money Tracker Control** | Sistema de Gestão Financeira Pessoal | `NextJS` `Spring` `SqlServer` | [Repositório](https://github.com/devlucasaf/money-tracker-control) |
+| **Money Tracker Control** | Sistema de Gestão Financeira Pessoal | `JS` `Spring` `SqlServer` | [Repositório](https://github.com/devlucasaf/money-tracker-control) |
 
 ---
 
