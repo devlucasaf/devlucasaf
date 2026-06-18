@@ -128,7 +128,7 @@ When I'm not coding, you'll find me listening to **Green Day** 🎸, cheering fo
 
 ## 🛠️ Tech Stack
 
-### Languages
+### ⚙️ Languages
 
 <div align="left">
     <img
@@ -193,7 +193,7 @@ When I'm not coding, you'll find me listening to **Green Day** 🎸, cheering fo
     />
 </div>
 
-### Frameworks & Libraries
+###  🌐 Frameworks & Libraries
 
 <div align="left">
     <img
@@ -253,7 +253,7 @@ When I'm not coding, you'll find me listening to **Green Day** 🎸, cheering fo
         src="https://skillicons.dev/icons?i=next"
 </div>
 
-### Databases
+### 🗄️ Databases
 
 <div align="left">
     <img
@@ -274,9 +274,18 @@ When I'm not coding, you'll find me listening to **Green Day** 🎸, cheering fo
     />
 </div>
 
-### Tools & IDEs 
+### 🗂️ Versioning and Collaboration
 
-<div align="left"> 
+<div align="left">
+    <img
+        align="center"
+        alt="git"
+        tittle="Git"
+        height="40"
+        style="padding-right: 10px;"
+        href="https://skillicons.dev"
+        src="https://skillicons.dev/icons?i=git"
+    />
     <img
         align="center"
         alt="github"
@@ -304,15 +313,11 @@ When I'm not coding, you'll find me listening to **Green Day** 🎸, cheering fo
         href="https://skillicons.dev"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/subversion/subversion-original.svg"
     />
-    <img
-        align="center"
-        alt="git"
-        tittle="Git"
-        height="40"
-        style="padding-right: 10px;"
-        href="https://skillicons.dev"
-        src="https://skillicons.dev/icons?i=git"
-    />
+</div>
+
+### 💻 Tools & IDEs 
+
+<div align="left"> 
     <img
         align="center"
         alt="VsCode"

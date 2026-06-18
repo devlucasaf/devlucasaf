@@ -127,7 +127,7 @@ Quando não estou programando, você me encontrará ouvindo **Green Day 🎸**, 
 
 ## 🛠️ Habilidades
 
-### Linguagens
+### ⚙️ Linguagens
 
 <div align="left">
     <img
@@ -192,7 +192,7 @@ Quando não estou programando, você me encontrará ouvindo **Green Day 🎸**, 
     />
 </div>
 
-### Frameworks & Bibliotecas
+### 🌐 Frameworks & Bibliotecas
 
 <div align="left">
     <img
@@ -252,7 +252,7 @@ Quando não estou programando, você me encontrará ouvindo **Green Day 🎸**, 
         src="https://skillicons.dev/icons?i=next"
 </div>
 
-### Banco de Dados
+### 🗄️ Banco de Dados
 
 <div align="left">
     <img
@@ -273,9 +273,18 @@ Quando não estou programando, você me encontrará ouvindo **Green Day 🎸**, 
     />
 </div>
 
-### Ferramentas & IDEs 
+### 🗂️ Versionamento & Colaboração
 
-<div align="left"> 
+<div align="left">
+    <img
+        align="center"
+        alt="git"
+        tittle="Git"
+        height="40"
+        style="padding-right: 10px;"
+        href="https://skillicons.dev"
+        src="https://skillicons.dev/icons?i=git"
+    />
     <img
         align="center"
         alt="github"
@@ -303,15 +312,11 @@ Quando não estou programando, você me encontrará ouvindo **Green Day 🎸**, 
         href="https://skillicons.dev"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/subversion/subversion-original.svg"
     />
-    <img
-        align="center"
-        alt="git"
-        tittle="Git"
-        height="40"
-        style="padding-right: 10px;"
-        href="https://skillicons.dev"
-        src="https://skillicons.dev/icons?i=git"
-    />
+</div>
+
+### 💻 Ferramentas & IDEs 
+
+<div align="left"> 
     <img
         align="center"
         alt="VsCode"
