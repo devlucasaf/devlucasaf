@@ -123,6 +123,7 @@ When I'm not coding, you'll find me listening to **Green Day** 🎸, cheering fo
 | **Portfolio** | My personal portfolio website | `HTML` `CSS` `JS` | [Repository](https://github.com/devlucasaf/Portifolio) |
 | **Condominium System (CMS)** | Condo Management System | `SqlServer` `Spring` `React` | [Repository](https://github.com/devlucasaf/SGC-Sistema-de-Gestao-De-Condominio) |
 | **Money Tracker Control** | Personal Finance Management System | `JS` `Spring` `SqlServer` | [Repository](https://github.com/devlucasaf/money-tracker-control) |
+| **ERP-Academic-School-System** | ERP for an Academic Management System | `JS` `Spring` `SqlServer` | [Repository](https://github.com/devlucasaf/ERP-Academic-School-System) |
 
 ---
 

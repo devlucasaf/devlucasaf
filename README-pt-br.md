@@ -122,6 +122,7 @@ Quando não estou programando, você me encontrará ouvindo **Green Day 🎸**, 
 | **Portfólio** | Meu portifólio pessoal | `HTML` `CSS` `JS` | [Repositório](https://github.com/devlucasaf/Portifolio) |
 | **SGC - Sistema de Gestão de Condomínio** | Sistema de Gestão de Condomínio | `SqlServer` `Spring` `React` | [Repositório](https://github.com/devlucasaf/SGC-Sistema-de-Gestao-De-Condominio) |
 | **Money Tracker Control** | Sistema de Gestão Financeira Pessoal | `JS` `Spring` `SqlServer` | [Repositório](https://github.com/devlucasaf/money-tracker-control) |
+| **ERP-Academic-School-System** | ERP de um Sistema de Gestão Acadêmica | `JS` `Spring` `SqlServer` | [Repository](https://github.com/devlucasaf/ERP-Academic-School-System) |
 
 ---
 
