@@ -89,13 +89,6 @@ Quando não estou programando, você me encontrará ouvindo **Green Day 🎸**, 
             alt="Gmail"
         />
     </a>
-    <a href="https://gitlab.com/devlucasaf" target="_blank">
-        <img 
-            src="https://img.shields.io/badge/gitlab-1a1b27?style=for-the-badge&logo=gitlab&logoColor=9644CD" 
-            style="height:40px" 
-            alt="GitLab" 
-        />
-    </a>
 </div>
 
 ## 🎧 Tocando Agora
