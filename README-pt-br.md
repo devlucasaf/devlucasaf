@@ -53,7 +53,7 @@ Quando não estou programando, você me encontrará ouvindo **Green Day 🎸**, 
 
 # 👥 Contatos
 
-<div align="left">
+<div align="center">
     <a href="https://www.instagram.com/__.fr3it4s.__/" target="_blank">
         <img 
             src="https://img.shields.io/badge/instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=9644CD" 
@@ -299,6 +299,15 @@ Quando não estou programando, você me encontrará ouvindo **Green Day 🎸**, 
     />
     <img
         align="center"
+        alt="Tortoise"
+        tittle="Tortoise"
+        height="40" 
+        style="padding-right: 10px;" 
+        href="https://skillicons.dev"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tortoisegit/tortoisegit-original.svg"
+    />   
+    <img
+        align="center"
         alt="Subversion"
         tittle="Subversion"
         height="40" 
@@ -337,6 +346,15 @@ Quando não estou programando, você me encontrará ouvindo **Green Day 🎸**, 
         style="padding-right: 10px;"
         href="https://skillicons.dev"
         src="https://skillicons.dev/icons?i=postgresql"
+    />
+    <img
+        align="center"
+        alt="SSMS"
+        tittle="SSMS"
+        height="40"
+        style="padding-right: 10px;"
+        href="https://skillicons.dev"
+        src="https://datamodel.com/wp-content/uploads/2025/05/ssms_21.png"
     />
     <img
         align="center"

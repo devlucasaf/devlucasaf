@@ -216,6 +216,14 @@ When I'm not coding, you'll find me listening to **Green Day** 🎸, cheering fo
     />
     <img
         align="center" 
+        alt="DJango" 
+        title="DJango"
+        height="40" 
+        style="padding-right: 10px;" 
+        src="https://skillicons.dev/icons?i=django"
+    />
+    <img
+        align="center" 
         alt="react" 
         title="React"
         height="40" 
@@ -282,6 +290,15 @@ When I'm not coding, you'll find me listening to **Green Day** 🎸, cheering fo
     />
     <img
         align="center"
+        alt="git"
+        tittle="Git"
+        height="40"
+        style="padding-right: 10px;"
+        href="https://skillicons.dev"
+        src="https://skillicons.dev/icons?i=githubactions"
+    />
+    <img
+        align="center"
         alt="github"
         tittle="GitHub"
         height="40" 
@@ -298,6 +315,15 @@ When I'm not coding, you'll find me listening to **Green Day** 🎸, cheering fo
         href="https://skillicons.dev"
         src="https://skillicons.dev/icons?i=gitlab"
     />
+    <img
+        align="center"
+        alt="Tortoise"
+        tittle="Tortoise"
+        height="40" 
+        style="padding-right: 10px;" 
+        href="https://skillicons.dev"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tortoisegit/tortoisegit-original.svg"
+    />          
     <img
         align="center"
         alt="Subversion"
@@ -341,6 +367,23 @@ When I'm not coding, you'll find me listening to **Green Day** 🎸, cheering fo
     />
     <img
         align="center"
+        alt="SSMS"
+        tittle="SSMS"
+        height="40"
+        style="padding-right: 10px;"
+        href="https://skillicons.dev"
+        src="https://datamodel.com/wp-content/uploads/2025/05/ssms_21.png"
+    />
+    <img
+        align="center"
+        alt="Rider"
+        tittle="Rider"
+        height="40"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg"
+    />
+    <img
+        align="center"
         alt="intellij"
         tittle="Intellij IDEA"
         height="40" 
@@ -370,6 +413,22 @@ When I'm not coding, you'll find me listening to **Green Day** 🎸, cheering fo
         height="40"
         style="padding-right: 10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg"
+    />
+    <img
+        align="center"
+        alt="DataGrip"
+        tittle="DataGrip"
+        height="40"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg"
+    />
+    <img
+        align="center"
+        alt="Android Studio"
+        tittle="Android Stuido"
+        height="40"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"
     />
 </div>
 
