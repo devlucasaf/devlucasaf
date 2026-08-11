@@ -195,7 +195,7 @@ Quando não estou programando, você me encontrará ouvindo **Green Day 🎸**, 
         title="Spring"
         height="40" 
         style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+        src="https://skillicons.dev/icons?i=spring"
     />
     <img
         align="center" 
@@ -219,7 +219,7 @@ Quando não estou programando, você me encontrará ouvindo **Green Day 🎸**, 
         title="React"
         height="40" 
         style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        src="https://skillicons.dev/icons?i=react"
     />
     <img
         align="center" 

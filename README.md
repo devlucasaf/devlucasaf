@@ -196,7 +196,7 @@ When I'm not coding, you'll find me listening to **Green Day** 🎸, cheering fo
         title="Spring"
         height="40" 
         style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
+        src="https://skillicons.dev/icons?i=spring"
     />
     <img
         align="center" 
@@ -228,7 +228,7 @@ When I'm not coding, you'll find me listening to **Green Day** 🎸, cheering fo
         title="React"
         height="40" 
         style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        src="https://skillicons.dev/icons?i=react"
     />
     <img
         align="center" 
