@@ -1,426 +1,374 @@
-<img 
-    width=100% 
+<a id="topo"></a>
+
+<img
+    width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=header"
 />
 
-# 💻 Lucas Freitas 💻
-
-<div align="left">
-    <a href="https://git.io/typing-svg">
-        <img 
-            src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F7F7F7&background=FFFFFF00&left=true&width=435&lines=Hello+World!;Back-End+em+Desenvolvimento!" 
-            alt="Typing SVG" 
-        />
+<p align="right">
+    <a href="https://github.com/devlucasaf/devlucasaf/blob/main/README.md">
+        <img src="./assets/us_flag.png" alt="Bandeira dos EUA" width="17" /> English
     </a>
-</div>
+    &nbsp;|&nbsp;
+    <a href="https://github.com/devlucasaf/devlucasaf/blob/main/README-pt-br.md">
+        <img src="./assets/br_flag.png" alt="Bandeira do Brasil" width="17" /> Português
+    </a>
+</p>
 
-<table align="right">
-    <tr>
-        <td>
-            <a href="https://github.com/devlucasaf/devlucasaf/blob/main/README.md">
-                <img 
-                    src="./assets/us_flag.png" 
-                    alt="US flag" 
-                    width="17px"
-                /> 
-                English
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/devlucasaf/devlucasaf/blob/main/README-pt-br.md">
-                <img 
-                    src="./assets/br_flag.png" 
-                    alt="Brazil flag" 
-                    width="17px"
-                />  
-                Português
-            </a>
-        </td>
-    </tr>
-</table>
+# 💻 Lucas Freitas
+
+<a href="https://git.io/typing-svg">
+    <img
+        src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F7F7F7&background=FFFFFF00&left=true&width=500&lines=Ol%C3%A1%2C+mundo!;Desenvolvedor+Back-End+em+forma%C3%A7%C3%A3o;Java+%7C+Spring+%7C+.NET"
+        alt="Typing SVG"
+    />
+</a>
+
+**Estagiário de Desenvolvimento @ Caesb** · Ciência da Computação · Brasília, DF
 
 ---
 
-# 💡 Sobre Mim
+## 💡 Sobre Mim
 
-Olá! Eu sou o **Lucas**, estudante de Ciência da Computação em **Brasília, Brasil**, atualmente no 5º semestre e apaixonado por construir coisas para a web. Trabalho como estagiário na **Caesb**, onde ganho experiência prática com sistemas reais e fluxos de trabalho de desenvolvimento.
+Olá! Eu sou o **Lucas**, estudante de Ciência da Computação em **Brasília, Brasil**, atualmente no 5º semestre. Trabalho como estagiário na **Caesb**, onde ganho experiência prática com sistemas reais e fluxos de desenvolvimento corporativos.
 
-Meu objetivo é me tornar um **Desenvolvedor Back-End** e, futuramente, fazer a transição para **Cibersegurança** — uma área que me fascina profundamente. Acredito em escrever códigos limpos, bem estruturados e em aprender novas tecnologias continuamente.
+Meu objetivo é me consolidar como **Desenvolvedor Back-End** e, futuramente, atuar com **Cibersegurança**. Valorizo código limpo, bem estruturado e o aprendizado contínuo de novas tecnologias.
 
-Quando não estou programando, você me encontrará ouvindo **Green Day 🎸**, torcendo pelo **Fluminense ⚽** ou estudando inglês na **Casa Thomas Jefferson**.
 
-# 👥 Contatos
+### Atualmente
 
-<div align="center">
-    <a href="https://www.instagram.com/__.fr3it4s.__/" target="_blank">
-        <img 
-            src="https://img.shields.io/badge/instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=9644CD" 
-            style="height:40px" 
-            alt="Instagram"
-        />
+- **Atuação:** estagiário de desenvolvimento na Caesb
+- **Foco:** APIs e sistemas Back-End com Java/Spring e C#/.NET
+- **Próximo passo:** Cibersegurança
+- **Idiomas:** Português (nativo) · Inglês (em aprimoramento)
+
+## 👥 Contatos
+
+<div align="left">
+    <a href="https://www.linkedin.com/in/lucasfr3itas/">
+        <img src="https://img.shields.io/badge/linkedin-1a1b27?style=for-the-badge&logo=linkedin&logoColor=9644CD" alt="LinkedIn" />
     </a>
-    <a href="https://discord.com/users/1043680764140736612" target="_blank">
-        <img 
-            src="https://img.shields.io/badge/discord-1a1b27?style=for-the-badge&logo=discord&logoColor=9644CD" 
-            style="height:40px" 
-            alt="Discord" 
-        />
+    <a href="mailto:freitas.lucasaf@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=9644CD" alt="Gmail" />
     </a>
-    <a href="https://www.linkedin.com/in/lucasfr3itas/" target="_blank">
-        <img
-            src="https://img.shields.io/badge/linkedin-1a1b27?style=for-the-badge&logo=linkedin&logoColor=9644CD" 
-            style="height:40px" 
-            alt="LinkedIn"
-        />
+    <a href="https://discord.com/users/1043680764140736612">
+        <img src="https://img.shields.io/badge/discord-1a1b27?style=for-the-badge&logo=discord&logoColor=9644CD" alt="Discord" />
     </a>
-    <a href="https://open.spotify.com/user/6atv4j3yoivc7yidi4tf3e00h?si=a7882472f98742e8" target="_blank">
-        <img 
-            src="https://img.shields.io/badge/spotify-1a1b27?style=for-the-badge&logo=spotify&logoColor=9644CD"
-            style="height:40px" 
-            alt="Spotify" 
-        />
+    <a href="https://www.instagram.com/__.fr3it4s.__/">
+        <img src="https://img.shields.io/badge/instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=9644CD" alt="Instagram" />
     </a>
-    <a href="mailto:freitas.lucasaf@gmail.com" target="_blank">
-        <img
-            src="https://img.shields.io/badge/gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=9644CD" 
-            style="height:40px" 
-            alt="Gmail"
-        />
+    <a href="https://open.spotify.com/user/6atv4j3yoivc7yidi4tf3e00h?si=a7882472f98742e8">
+        <img src="https://img.shields.io/badge/spotify-1a1b27?style=for-the-badge&logo=spotify&logoColor=9644CD" alt="Spotify" />
     </a>
 </div>
 
-## 🎧 Tocando Agora
+---
 
-<table align="center">
-    <tr>
-        <td width="500" align="center">
-            <a href="https://github.com/kittinan/spotify-github-profile">
-                <img
-                    src="https://spotify-github-profile.kittinanx.com/api/view?uid=6atv4j3yoivc7yidi4tf3e00h&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark"
-                    alt="Spotify Now Playing"
-                />
-            </a>
-        </td>
-    </tr>
-</table>
-
-## 💼 Meus Projetos
+## 💼 Projetos
 
 | Projeto | Descrição | Stack | Link |
-|---------|-------------|-------|------|
-| **Football Games 11** | Monte e escale seu time de futebol ou seleções nacionais | `HTML` `CSS` `JS` | [Repositório](https://github.com/devlucasaf/Formacao-Futebol) |
-| **LiveEvents-Ticker** | Sistema de Gestão de Vendas de Ingressos | `.Net` `React` `SqlServer` | [Repository](https://github.com/devlucasaf/LiveEvents-Ticket) |
-| **Portfólio** | Meu portifólio pessoal | `HTML` `CSS` `JS` | [Repositório](https://github.com/devlucasaf/Portifolio) |
-| **SGC - Sistema de Gestão de Condomínio** | Sistema de Gestão de Condomínio | `SqlServer` `Spring` `React` | [Repositório](https://github.com/devlucasaf/SGC-Sistema-de-Gestao-De-Condominio) |
-| **Money Tracker Control** | Sistema de Gestão Financeira Pessoal | `JS` `Spring` `SqlServer` | [Repositório](https://github.com/devlucasaf/money-tracker-control) |
-| **ERP-Academic-School-System** | ERP de um Sistema de Gestão Acadêmica | `JS` `Spring` `SqlServer` | [Repository](https://github.com/devlucasaf/ERP-Academic-School-System) |
+|---------|-----------|-------|------|
+| **ERP Academic School System** | ERP para gestão acadêmica escolar | `Spring` `JavaScript` `SQL Server` | [Repositório](https://github.com/devlucasaf/ERP-Academic-School-System) |
+| **SGC - Sistema de Gestão de Condomínio** | Gestão de condomínios | `Spring` `React` `SQL Server` | [Repositório](https://github.com/devlucasaf/SGC-Sistema-de-Gestao-De-Condominio) |
+| **Money Tracker Control** | Controle financeiro pessoal | `Spring` `JavaScript` `SQL Server` | [Repositório](https://github.com/devlucasaf/money-tracker-control) |
+| **LiveEvents** | Gestão de vendas de ingressos para eventos | `.NET` `React` `SQL Server` | [Repositório](https://github.com/devlucasaf/LiveEvents) |
+| **Football Games 11** | Monte e escale seu time de futebol ou seleção nacional | `HTML` `CSS` `JavaScript` | [Repositório](https://github.com/devlucasaf/Formacao-Futebol) |
+| **Portfólio** | Meu portfólio pessoal | `HTML` `CSS` `JavaScript` | [Repositório](https://github.com/devlucasaf/Portifolio) |
 
 ---
 
 ## 🛠️ Habilidades
 
-### ⚙️ Linguagens
+### Linguagens
 
 <div align="left">
     <img
         align="center"
         alt="Java"
-        tittle="Java"
-        height="40" 
-        style="padding-right: 10px;"
-        href="https://skillicons.dev"
+        title="Java"
+        height="48"
         src="https://skillicons.dev/icons?i=java"
     />
-    <img 
-        align="center" 
-        alt="Python" 
+    <img
+        align="center"
+        alt="Python"
         title="Python"
-        height="40" 
-        style="padding-right: 10px;" 
-        href="https://skillicons.dev"
+        height="48"
         src="https://skillicons.dev/icons?i=python"
     />
     <img
         align="center"
         alt="Ruby"
-        tittle="Ruby"
-        height="40" 
-        style="padding-right: 10px;"
-        href="https://skillicons.dev"
+        title="Ruby"
+        height="48"
         src="https://skillicons.dev/icons?i=ruby"
     />
-    <img 
-        align="center" 
-        alt="C#" 
+    <img
+        align="center"
+        alt="C#"
         title="C#"
-        height="40" 
-        style="padding-right: 10px;" 
-        href="https://skillicons.dev"
+        height="48"
         src="https://skillicons.dev/icons?i=cs"
     />
-    <img 
+    <img
         align="center"
         alt="JavaScript"
-        tittle="JavaScript"
-        height="40" 
-        style="padding-right: 10px;"
-        src="https://skillicons.dev/icons?i=javascript" 
+        title="JavaScript"
+        height="48"
+        src="https://skillicons.dev/icons?i=javascript"
     />
     <img
-        align="center" 
-        alt="HTML" 
+        align="center"
+        alt="HTML"
         title="HTML"
-        height="40" 
-        style="padding-right: 10px;" 
+        height="48"
         src="https://skillicons.dev/icons?i=html"
     />
     <img
-        align="center" 
-        alt="CSS" 
+        align="center"
+        alt="CSS"
         title="CSS"
-        height="40" 
-        style="padding-right: 10px;" 
+        height="48"
         src="https://skillicons.dev/icons?i=css"
     />
 </div>
 
-### 🌐 Frameworks & Bibliotecas
-
-<div align="left">
-    <img
-        align="center" 
-        alt="Spring" 
-        title="Spring"
-        height="40" 
-        style="padding-right: 10px;" 
-        src="https://skillicons.dev/icons?i=spring"
-    />
-    <img
-        align="center" 
-        alt="DotNet" 
-        title="DotNet"
-        height="40" 
-        style="padding-right: 10px;" 
-        src="https://skillicons.dev/icons?i=dotnet"
-    />
-    <img
-        align="center" 
-        alt="Rails" 
-        title="Rails"
-        height="40" 
-        style="padding-right: 10px;" 
-        src="https://skillicons.dev/icons?i=rails"
-    />
-    <img
-        align="center" 
-        alt="react" 
-        title="React"
-        height="40" 
-        style="padding-right: 10px;" 
-        src="https://skillicons.dev/icons?i=react"
-    />
-    <img
-        align="center" 
-        alt="vite" 
-        title="Vite"
-        height="40" 
-        style="padding-right: 10px;" 
-        src="https://skillicons.dev/icons?i=vite"
-    />
-    <img
-        align="center" 
-        alt="NodeJS" 
-        title="NodeJS"
-        height="40" 
-        style="padding-right: 10px;" 
-        src="https://skillicons.dev/icons?i=nodejs"
-    />
-    <img
-        align="center" 
-        alt="NextJS" 
-        title="NextJS"
-        height="40" 
-        style="padding-right: 10px;" 
-        src="https://skillicons.dev/icons?i=next"
-</div>
-
-### 🗄️ Banco de Dados
-
-<div align="left">
-    <img
-        align="center" 
-        alt="SQL" 
-        title="SQL"
-        height="40" 
-        style="padding-right: 10px;" 
-        src="https://skillicons.dev/icons?i=mysql"
-    />
-    <img
-        align="center" 
-        alt="SqlServer" 
-        title="SqlServer"
-        height="40" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
-    />
-</div>
-
-### 🗂️ Versionamento & Colaboração
+### Frameworks & Bibliotecas
 
 <div align="left">
     <img
         align="center"
-        alt="git"
-        tittle="Git"
-        height="40"
-        style="padding-right: 10px;"
-        href="https://skillicons.dev"
+        alt="Spring"
+        title="Spring"
+        height="48"
+        src="https://skillicons.dev/icons?i=spring"
+    />
+    <img
+        align="center"
+        alt=".NET"
+        title=".NET"
+        height="48"
+        src="https://skillicons.dev/icons?i=dotnet"
+    />
+    <img
+        align="center"
+        alt="Rails"
+        title="Rails"
+        height="48"
+        src="https://skillicons.dev/icons?i=rails"
+    />
+    <img
+        align="center"
+        alt="Django"
+        title="Django"
+        height="48"
+        src="https://skillicons.dev/icons?i=django"
+    />
+    <img
+        align="center"
+        alt="React"
+        title="React"
+        height="48"
+        src="https://skillicons.dev/icons?i=react"
+    />
+    <img
+        align="center"
+        alt="Vite"
+        title="Vite"
+        height="48"
+        src="https://skillicons.dev/icons?i=vite"
+    />
+    <img
+        align="center"
+        alt="Node.js"
+        title="Node.js"
+        height="48"
+        src="https://skillicons.dev/icons?i=nodejs"
+    />
+    <img
+        align="center"
+        alt="Next.js"
+        title="Next.js"
+        height="48"
+        src="https://skillicons.dev/icons?i=next"
+    />
+</div>
+
+### Banco de Dados
+
+<div align="left">
+    <img
+        align="center"
+        alt="MySQL"
+        title="MySQL"
+        height="48"
+        src="https://skillicons.dev/icons?i=mysql"
+    />
+    <img
+        align="center"
+        alt="PostgreSQL"
+        title="PostgreSQL"
+        height="48"
+        src="https://skillicons.dev/icons?i=postgresql"
+    />
+    <img
+        align="center"
+        alt="SQL Server"
+        title="SQL Server"
+        height="48"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+    />
+</div>
+
+### Versionamento & Colaboração
+
+<div align="left">
+    <img
+        align="center"
+        alt="Git"
+        title="Git"
+        height="48"
         src="https://skillicons.dev/icons?i=git"
     />
     <img
         align="center"
-        alt="github"
-        tittle="GitHub"
-        height="40" 
-        style="padding-right: 10px;" 
-        href="https://skillicons.dev"
+        alt="GitHub"
+        title="GitHub"
+        height="48"
         src="https://skillicons.dev/icons?i=github"
-    /> 
+    />
     <img
         align="center"
-        alt="gitlab"
-        tittle="GitLab"
-        height="40" 
-        style="padding-right: 10px;" 
-        href="https://skillicons.dev"
+        alt="GitHub Actions"
+        title="GitHub Actions"
+        height="48"
+        src="https://skillicons.dev/icons?i=githubactions"
+    />
+    <img
+        align="center"
+        alt="GitLab"
+        title="GitLab"
+        height="48"
         src="https://skillicons.dev/icons?i=gitlab"
     />
     <img
         align="center"
-        alt="Tortoise"
-        tittle="Tortoise"
-        height="40" 
-        style="padding-right: 10px;" 
-        href="https://skillicons.dev"
+        alt="TortoiseGit"
+        title="TortoiseGit"
+        height="48"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tortoisegit/tortoisegit-original.svg"
-    />   
+    />
     <img
         align="center"
         alt="Subversion"
-        tittle="Subversion"
-        height="40" 
-        style="padding-right: 10px;" 
-        href="https://skillicons.dev"
+        title="Subversion"
+        height="48"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/subversion/subversion-original.svg"
     />
 </div>
 
-### 💻 Ferramentas & IDEs 
+### Ferramentas & IDEs
 
-<div align="left"> 
+<div align="left">
     <img
         align="center"
-        alt="VsCode"
-        tittle="VsCode"
-        height="40" 
-        style="padding-right: 10px;" 
-        href="https://skillicons.dev"
+        alt="VS Code"
+        title="VS Code"
+        height="48"
         src="https://skillicons.dev/icons?i=vscode"
     />
     <img
         align="center"
         alt="Visual Studio"
-        tittle="Visual Studio"
-        height="40" 
-        style="padding-right: 10px;" 
-        href="https://skillicons.dev"
+        title="Visual Studio"
+        height="48"
         src="https://skillicons.dev/icons?i=visualstudio"
     />
     <img
         align="center"
-        alt="PostgreSQL"
-        tittle="PostgreSQL"
-        height="40"
-        style="padding-right: 10px;"
-        href="https://skillicons.dev"
-        src="https://skillicons.dev/icons?i=postgresql"
-    />
-    <img
-        align="center"
-        alt="SSMS"
-        tittle="SSMS"
-        height="40"
-        style="padding-right: 10px;"
-        href="https://skillicons.dev"
-        src="https://datamodel.com/wp-content/uploads/2025/05/ssms_21.png"
-    />
-    <img
-        align="center"
-        alt="intellij"
-        tittle="Intellij IDEA"
-        height="40" 
-        style="padding-right: 10px;" 
+        alt="IntelliJ IDEA"
+        title="IntelliJ IDEA"
+        height="48"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
     />
     <img
         align="center"
         alt="PyCharm"
-        tittle="PyCharm"
-        height="40"
-        style="padding-right: 10px;"
+        title="PyCharm"
+        height="48"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"
     />
     <img
         align="center"
         alt="RubyMine"
-        tittle="RubyMine"
-        height="40"
-        style="padding-right: 10px;"
+        title="RubyMine"
+        height="48"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubymine/rubymine-original.svg"
     />
     <img
         align="center"
         alt="Rider"
-        tittle="Rider"
-        height="40"
-        style="padding-right: 10px;"
+        title="Rider"
+        height="48"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg"
+    />
+    <img
+        align="center"
+        alt="DataGrip"
+        title="DataGrip"
+        height="48"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg"
+    />
+    <img
+        align="center"
+        alt="Android Studio"
+        title="Android Studio"
+        height="48"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"
+    />
+    <img
+        align="center"
+        alt="SSMS"
+        title="SSMS"
+        height="48"
+        src="https://datamodel.com/wp-content/uploads/2025/05/ssms_21.png"
     />
 </div>
 
 ---
 
-# 📊 Estatísticas GitHub
+## 📊 Estatísticas do GitHub
 
-<div>
-    <img 
-        align="center" 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=devlucasaf&theme=rogue&hide_border=true&line=fe428e&bg_color=transparent&title_color=fe428e"
+<p align="center">
+    <img
+        width="100%"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=devlucasaf&theme=rogue&hide_border=true&bg_color=transparent&line=A020F0&point=9644CD&title_color=9644CD"
+        alt="Gráfico de atividade"
     />
-</div>
+</p>
 
 <table>
     <tr>
         <td align="left">
-            <img 
+            <img
                 height="400px"
                 style="width: 490px;"
-                src="https://github-readme-stats-seven-omega-72.vercel.app/api/top-langs/?username=devlucasaf&langs_count=8&theme=transparent&custom_title=Tecnologias&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true"
+                src="https://github-readme-stats-seven-omega-72.vercel.app/api/top-langs/?username=devlucasaf&langs_count=8&theme=transparent&custom_title=Linguagens%20mais%20usadas&title_color=A020F0&text_color=c9d1d9&icon_color=9644CD&hide_border=true"
+                alt="Linguagens mais usadas"
             />
         </td>
         <td align="right">
-            <img 
+            <img
                 height="210px"
                 style="width: 490px;"
-                src="https://github-readme-stats-seven-omega-72.vercel.app/api?username=devlucasaf&show_icons=true&custom_title=Lucas%20Github%20Status&theme=transparent&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true"
+                src="https://github-readme-stats-seven-omega-72.vercel.app/api?username=devlucasaf&show_icons=true&custom_title=Estat%C3%ADsticas%20do%20Lucas&theme=transparent&title_color=A020F0&text_color=c9d1d9&icon_color=9644CD&hide_border=true"
+                alt="Estatísticas do GitHub"
             />
             <br>
             <a href="https://git.io/streak-stats">
-                <img 
+                <img
                     height="200px"
-                    src="https://github-readme-streak-stats.herokuapp.com/?user=devlucasaf&theme=transparent&border=E4E2E2&stroke=E4E2E2&ring=FE428E&fire=FE428E&currStreakNum=F8D847&sideNums=FE428E&currStreakLabel=F8D847&sideLabels=FE428E&dates=A9FEF7&excludeDaysLabel=A9FEF7&hide_border=true"
+                    src="https://streak-stats.demolab.com/?user=devlucasaf&theme=transparent&hide_border=true&stroke=9644CD&ring=A020F0&fire=A020F0&currStreakNum=c9d1d9&sideNums=A020F0&currStreakLabel=9644CD&sideLabels=9644CD&dates=c9d1d9&excludeDaysLabel=c9d1d9"
                     alt="GitHub Streak"
                 />
             </a>
@@ -431,39 +379,36 @@ Quando não estou programando, você me encontrará ouvindo **Green Day 🎸**, 
 <br>
 
 <picture>
-    <source 
-        media="(prefers-color-scheme: dark)" 
+    <source
+        media="(prefers-color-scheme: dark)"
         srcset="https://raw.githubusercontent.com/devlucasaf/devlucasaf/output/pacman-contribution-graph-dark.svg"
     />
-    <source 
-        media="(prefers-color-scheme: light)" 
+    <source
+        media="(prefers-color-scheme: light)"
         srcset="https://raw.githubusercontent.com/devlucasaf/devlucasaf/output/pacman-contribution-graph.svg"
     />
-    <img 
-        alt="pacman contribution graph" 
+    <img
+        alt="Gráfico de contribuições Pac-Man"
         src="https://raw.githubusercontent.com/devlucasaf/devlucasaf/output/pacman-contribution-graph.svg"
     />
 </picture>
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img 
+        <img
             src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Obrigado+pela+sua+visita!+%F0%9F%91%BE;Pode+me+chamar+quando+quiser+%F0%9F%92%AC"
-            alt="Typing SVG" 
+            alt="Typing SVG"
         />
     </a>
 </div>
 
-<img 
-    width=100% 
+<img
+    width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"
 />
 
 <p align="right">
     <a href="#topo">
-        <img 
-            src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=7E3ACE&style=for-the-badge" 
-            alt="voltar ao topo" 
-        />
+        <img src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=9644CD&style=for-the-badge" alt="voltar ao topo" />
     </a>
 </p>
