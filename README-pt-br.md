@@ -7,11 +7,19 @@
 
 <p align="right">
     <a href="https://github.com/devlucasaf/devlucasaf/blob/main/README.md">
-        <img src="./assets/us_flag.png" alt="Bandeira dos EUA" width="17" /> English
+        <img 
+            src="./assets/us_flag.png" 
+            alt="Bandeira dos EUA" 
+            width="17" 
+        /> English
     </a>
     &nbsp;|&nbsp;
     <a href="https://github.com/devlucasaf/devlucasaf/blob/main/README-pt-br.md">
-        <img src="./assets/br_flag.png" alt="Bandeira do Brasil" width="17" /> Português
+        <img 
+            src="./assets/br_flag.png" 
+            alt="Bandeira do Brasil" 
+            width="17" 
+        /> Português
     </a>
 </p>
 
@@ -45,20 +53,35 @@ Meu objetivo é me consolidar como **Desenvolvedor Back-End** e, futuramente, at
 ## 👥 Contatos
 
 <div align="left">
-    <a href="https://www.linkedin.com/in/lucasfr3itas/">
-        <img src="https://img.shields.io/badge/linkedin-1a1b27?style=for-the-badge&logo=linkedin&logoColor=9644CD" alt="LinkedIn" />
-    </a>
     <a href="mailto:freitas.lucasaf@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=9644CD" alt="Gmail" />
+        <img 
+            src="https://img.shields.io/badge/gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=9644CD" 
+            alt="Gmail" 
+        />
     </a>
     <a href="https://discord.com/users/1043680764140736612">
-        <img src="https://img.shields.io/badge/discord-1a1b27?style=for-the-badge&logo=discord&logoColor=9644CD" alt="Discord" />
+        <img 
+            src="https://img.shields.io/badge/discord-1a1b27?style=for-the-badge&logo=discord&logoColor=9644CD" 
+            alt="Discord" 
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/lucasfr3itas/">
+        <img 
+            src="https://img.shields.io/badge/linkedin-1a1b27?style=for-the-badge&logo=linkedin&logoColor=9644CD" 
+            alt="LinkedIn"
+        />
     </a>
     <a href="https://www.instagram.com/__.fr3it4s.__/">
-        <img src="https://img.shields.io/badge/instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=9644CD" alt="Instagram" />
+        <img 
+            src="https://img.shields.io/badge/instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=9644CD" 
+            alt="Instagram"
+        />
     </a>
     <a href="https://open.spotify.com/user/6atv4j3yoivc7yidi4tf3e00h?si=a7882472f98742e8">
-        <img src="https://img.shields.io/badge/spotify-1a1b27?style=for-the-badge&logo=spotify&logoColor=9644CD" alt="Spotify" />
+        <img 
+            src="https://img.shields.io/badge/spotify-1a1b27?style=for-the-badge&logo=spotify&logoColor=9644CD" 
+            alt="Spotify" 
+        />
     </a>
 </div>
 
@@ -68,12 +91,12 @@ Meu objetivo é me consolidar como **Desenvolvedor Back-End** e, futuramente, at
 
 | Projeto | Descrição | Stack | Link |
 |---------|-----------|-------|------|
-| **ERP Academic School System** | ERP para gestão acadêmica escolar | `Spring` `JavaScript` `SQL Server` | [Repositório](https://github.com/devlucasaf/ERP-Academic-School-System) |
+| **UniAura** | ERP para gestão acadêmica universitária | `Spring` `JavaScript` `SQL Server` | [Repositório](https://github.com/devlucasaf/UniAura) |
 | **SGC - Sistema de Gestão de Condomínio** | Gestão de condomínios | `Spring` `React` `SQL Server` | [Repositório](https://github.com/devlucasaf/SGC-Sistema-de-Gestao-De-Condominio) |
 | **Money Tracker Control** | Controle financeiro pessoal | `Spring` `JavaScript` `SQL Server` | [Repositório](https://github.com/devlucasaf/money-tracker-control) |
 | **LiveEvents** | Gestão de vendas de ingressos para eventos | `.NET` `React` `SQL Server` | [Repositório](https://github.com/devlucasaf/LiveEvents) |
-| **Football Games 11** | Monte e escale seu time de futebol ou seleção nacional | `HTML` `CSS` `JavaScript` | [Repositório](https://github.com/devlucasaf/Formacao-Futebol) |
-| **Portfólio** | Meu portfólio pessoal | `HTML` `CSS` `JavaScript` | [Repositório](https://github.com/devlucasaf/Portifolio) |
+| **Football Games 11** | Monte e escale seu time de futebol ou seleção nacional | `HTML` `CSS` `JavaScript` | [Repositório](https://github.com/devlucasaf/Football-Games-11) |
+| **Portfólio** | Meu portfólio pessoal | `HTML` `CSS` `JavaScript` | [Repositório](https://github.com/devlucasaf/Portfolio) |
 
 ---
 
@@ -286,6 +309,13 @@ Meu objetivo é me consolidar como **Desenvolvedor Back-End** e, futuramente, at
     />
     <img
         align="center"
+        alt="SSMS"
+        title="SSMS"
+        height="48"
+        src="https://datamodel.com/wp-content/uploads/2025/05/ssms_21.png"
+    />
+    <img
+        align="center"
         alt="IntelliJ IDEA"
         title="IntelliJ IDEA"
         height="48"
@@ -325,13 +355,6 @@ Meu objetivo é me consolidar como **Desenvolvedor Back-End** e, futuramente, at
         title="Android Studio"
         height="48"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"
-    />
-    <img
-        align="center"
-        alt="SSMS"
-        title="SSMS"
-        height="48"
-        src="https://datamodel.com/wp-content/uploads/2025/05/ssms_21.png"
     />
 </div>
 
