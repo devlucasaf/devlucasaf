@@ -94,8 +94,8 @@ My goal is to establish myself as a **Back-End Developer** and, in the future, w
 | **CMS - Condominium Management System** | Condominium management | `Spring` `React` `SQL Server` | [Repository](https://github.com/devlucasaf/SGC-Sistema-de-Gestao-De-Condominio) |
 | **Money Tracker Control** | Personal finance management | `Spring` `JavaScript` `SQL Server` | [Repository](https://github.com/devlucasaf/money-tracker-control) |
 | **LiveEvents** | Event ticket sales management | `.NET` `React` `SQL Server` | [Repository](https://github.com/devlucasaf/LiveEvents) |
-| **Football Games 11** | Build and draft your football team or national squad | `HTML` `CSS` `JavaScript` | [Repository](https://github.com/devlucasaf/Formacao-Futebol) |
-| **Portfolio** | My personal portfolio website | `HTML` `CSS` `JavaScript` | [Repository](https://github.com/devlucasaf/Portifolio) |
+| **Football Games 11** | Build and draft your football team or national squad | `HTML` `CSS` `JavaScript` | [Repository](https://github.com/devlucasaf/Football-Games-11) |
+| **Portfolio** | My personal portfolio website | `HTML` `CSS` `JavaScript` | [Repository](https://github.com/devlucasaf/Portfolio) |
 
 ---
 
