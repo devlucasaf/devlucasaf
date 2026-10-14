@@ -7,11 +7,19 @@
 
 <p align="right">
     <a href="https://github.com/devlucasaf/devlucasaf/blob/main/README.md">
-        <img src="./assets/us_flag.png" alt="US flag" width="17" /> English
+        <img 
+            src="./assets/us_flag.png" 
+            alt="US flag" 
+            width="17" 
+        /> English
     </a>
     &nbsp;|&nbsp;
     <a href="https://github.com/devlucasaf/devlucasaf/blob/main/README-pt-br.md">
-        <img src="./assets/br_flag.png" alt="Brazil flag" width="17" /> Português
+        <img 
+            src="./assets/br_flag.png" 
+            alt="Brazil flag" 
+            width="17" 
+        /> Português
     </a>
 </p>
 
@@ -45,19 +53,34 @@ My goal is to establish myself as a **Back-End Developer** and, in the future, w
 
 <div align="left">
     <a href="mailto:freitas.lucasaf@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=9644CD" alt="Gmail" />
+        <img 
+            src="https://img.shields.io/badge/gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=9644CD" 
+            alt="Gmail" 
+        />
     </a>
     <a href="https://discord.com/users/1043680764140736612">
-        <img src="https://img.shields.io/badge/discord-1a1b27?style=for-the-badge&logo=discord&logoColor=9644CD" alt="Discord" />
+        <img 
+            src="https://img.shields.io/badge/discord-1a1b27?style=for-the-badge&logo=discord&logoColor=9644CD" 
+            alt="Discord" 
+        />
     </a>
     <a href="https://www.linkedin.com/in/lucasfr3itas/">
-        <img src="https://img.shields.io/badge/linkedin-1a1b27?style=for-the-badge&logo=linkedin&logoColor=9644CD" alt="LinkedIn" />
+        <img 
+            src="https://img.shields.io/badge/linkedin-1a1b27?style=for-the-badge&logo=linkedin&logoColor=9644CD" 
+            alt="LinkedIn"
+        />
     </a>
     <a href="https://www.instagram.com/__.fr3it4s.__/">
-        <img src="https://img.shields.io/badge/instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=9644CD" alt="Instagram" />
+        <img 
+            src="https://img.shields.io/badge/instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=9644CD" 
+            alt="Instagram"
+        />
     </a>
     <a href="https://open.spotify.com/user/6atv4j3yoivc7yidi4tf3e00h?si=a7882472f98742e8">
-        <img src="https://img.shields.io/badge/spotify-1a1b27?style=for-the-badge&logo=spotify&logoColor=9644CD" alt="Spotify" />
+        <img 
+            src="https://img.shields.io/badge/spotify-1a1b27?style=for-the-badge&logo=spotify&logoColor=9644CD" 
+            alt="Spotify" 
+        />
     </a>
 </div>
 
@@ -67,7 +90,7 @@ My goal is to establish myself as a **Back-End Developer** and, in the future, w
 
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
-| **ERP Academic School System** | ERP for school academic management | `Spring` `JavaScript` `SQL Server` | [Repository](https://github.com/devlucasaf/ERP-Academic-School-System) |
+| **UniAura** | ERP for university academic management | `Spring` `JavaScript` `SQL Server` | [Repository](https://github.com/devlucasaf/UniAura) |
 | **CMS - Condominium Management System** | Condominium management | `Spring` `React` `SQL Server` | [Repository](https://github.com/devlucasaf/SGC-Sistema-de-Gestao-De-Condominio) |
 | **Money Tracker Control** | Personal finance management | `Spring` `JavaScript` `SQL Server` | [Repository](https://github.com/devlucasaf/money-tracker-control) |
 | **LiveEvents-Ticket** | Event ticket sales management | `.NET` `React` `SQL Server` | [Repository](https://github.com/devlucasaf/LiveEvents-Ticket) |
@@ -285,6 +308,13 @@ My goal is to establish myself as a **Back-End Developer** and, in the future, w
     />
     <img
         align="center"
+        alt="SSMS"
+        title="SSMS"
+        height="48"
+        src="https://datamodel.com/wp-content/uploads/2025/05/ssms_21.png"
+    />
+    <img
+        align="center"
         alt="IntelliJ IDEA"
         title="IntelliJ IDEA"
         height="48"
@@ -324,13 +354,6 @@ My goal is to establish myself as a **Back-End Developer** and, in the future, w
         title="Android Studio"
         height="48"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"
-    />
-    <img
-        align="center"
-        alt="SSMS"
-        title="SSMS"
-        height="48"
-        src="https://datamodel.com/wp-content/uploads/2025/05/ssms_21.png"
     />
 </div>
 
