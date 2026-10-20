@@ -91,7 +91,7 @@ Meu objetivo é me consolidar como **Desenvolvedor Back-End** e, futuramente, at
 
 | Projeto | Descrição | Stack | Link |
 |---------|-----------|-------|------|
-| **UniAura** | ERP para gestão acadêmica universitária | `Spring` `JavaScript` `SQL Server` | [Repositório](https://github.com/devlucasaf/UniAura) |
+| **UniAura** | ERP para gestão acadêmica universitária | `Spring` `React` `NextJS` | [Repositório](https://github.com/devlucasaf/UniAura) |
 | **SGC - Sistema de Gestão de Condomínio** | Gestão de condomínios | `Spring` `React` `SQL Server` | [Repositório](https://github.com/devlucasaf/SGC-Sistema-de-Gestao-De-Condominio) |
 | **Money Tracker Control** | Controle financeiro pessoal | `Spring` `JavaScript` `SQL Server` | [Repositório](https://github.com/devlucasaf/money-tracker-control) |
 | **LiveEvents** | Gestão de vendas de ingressos para eventos | `.NET` `React` `SQL Server` | [Repositório](https://github.com/devlucasaf/LiveEvents) |
@@ -229,17 +229,17 @@ Meu objetivo é me consolidar como **Desenvolvedor Back-End** e, futuramente, at
     />
     <img
         align="center"
-        alt="PostgreSQL"
-        title="PostgreSQL"
-        height="48"
-        src="https://skillicons.dev/icons?i=postgresql"
-    />
-    <img
-        align="center"
         alt="SQL Server"
         title="SQL Server"
         height="48"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+    />
+    <img
+        align="center"
+        alt="Sqlite3"
+        title="Sqlite3"
+        height="48"
+        src="https://skillicons.dev/icons?i=sqlite"
     />
 </div>
 
@@ -356,6 +356,13 @@ Meu objetivo é me consolidar como **Desenvolvedor Back-End** e, futuramente, at
         height="48"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"
     />
+    <img
+        align="center"
+        alt="PostgreSQL"
+        title="PostgreSQL"
+        height="48"
+        src="https://skillicons.dev/icons?i=postgresql"
+    />
 </div>
 
 ---
@@ -432,6 +439,9 @@ Meu objetivo é me consolidar como **Desenvolvedor Back-End** e, futuramente, at
 
 <p align="right">
     <a href="#topo">
-        <img src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=9644CD&style=for-the-badge" alt="voltar ao topo" />
+        <img 
+            src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=9644CD&style=for-the-badge" 
+            alt="voltar ao topo" 
+        />
     </a>
 </p>
