@@ -316,6 +316,13 @@ Meu objetivo é me consolidar como **Desenvolvedor Back-End** e, futuramente, at
     />
     <img
         align="center"
+        alt="Antigravity"
+        title="Antigravity"
+        height="48"
+        src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png"
+    />
+    <img
+        align="center"
         alt="IntelliJ IDEA"
         title="IntelliJ IDEA"
         height="48"

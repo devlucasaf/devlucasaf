@@ -315,6 +315,13 @@ My goal is to establish myself as a **Back-End Developer** and, in the future, w
     />
     <img
         align="center"
+        alt="Antigravity"
+        title="Antigravity"
+        height="48"
+        src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png"
+    />
+    <img
+        align="center"
         alt="IntelliJ IDEA"
         title="IntelliJ IDEA"
         height="48"
