@@ -318,7 +318,14 @@ My goal is to establish myself as a **Back-End Developer** and, in the future, w
         alt="Antigravity"
         title="Antigravity"
         height="48"
-        src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antigravity/antigravity-original.svg"
+    />
+    <img
+        align="center"
+        alt="Android Studio"
+        title="Android Studio"
+        height="48"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"
     />
     <img
         align="center"
@@ -354,13 +361,6 @@ My goal is to establish myself as a **Back-End Developer** and, in the future, w
         title="DataGrip"
         height="48"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg"
-    />
-    <img
-        align="center"
-        alt="Android Studio"
-        title="Android Studio"
-        height="48"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"
     />
     <img
         align="center"
